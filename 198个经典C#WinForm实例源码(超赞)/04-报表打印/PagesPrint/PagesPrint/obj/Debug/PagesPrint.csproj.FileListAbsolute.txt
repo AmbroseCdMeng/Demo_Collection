@@ -1,0 +1,16 @@
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\obj\Debug\PagesPrint.Form1.resources
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\obj\Debug\PagesPrint.Properties.Resources.resources
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\obj\Debug\PagesPrint.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\bin\Debug\PagesPrint.exe
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\bin\Debug\PagesPrint.pdb
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\obj\Debug\PagesPrint.exe
+F:\源码\C#范例手册\04\PagesPrint\PagesPrint\obj\Debug\PagesPrint.pdb
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\obj\Debug\PagesPrint.exe
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\obj\Debug\PagesPrint.pdb
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\bin\Debug\PagesPrint.exe
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\bin\Debug\PagesPrint.pdb
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\obj\Debug\PagesPrint.Form1.resources
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\obj\Debug\PagesPrint.Properties.Resources.resources
+F:\源码\C#范例手册\04\039\sl\PagesPrint\PagesPrint\obj\Debug\PagesPrint.csproj.GenerateResource.Cache

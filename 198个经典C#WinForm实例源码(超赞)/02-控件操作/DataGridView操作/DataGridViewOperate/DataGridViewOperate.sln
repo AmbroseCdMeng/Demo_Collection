@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewOperate", "DataGridViewOperate.csproj", "{ADED8E29-7F6B-4B11-BDAC-C212F0B6C934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADED8E29-7F6B-4B11-BDAC-C212F0B6C934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADED8E29-7F6B-4B11-BDAC-C212F0B6C934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADED8E29-7F6B-4B11-BDAC-C212F0B6C934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADED8E29-7F6B-4B11-BDAC-C212F0B6C934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe.config
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\RemoteControl.FrmMain.resources
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\RemoteControl.frmEdit.resources
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\RemoteControl.Properties.Resources.resources
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\RemoteControl.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\RemoteControl.exe
+F:\源码\C#范例手册\08\RemoteControl\RemoteControl\obj\Debug\RemoteControl.pdb

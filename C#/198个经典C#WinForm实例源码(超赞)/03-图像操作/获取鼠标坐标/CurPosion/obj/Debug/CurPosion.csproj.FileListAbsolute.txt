@@ -1,0 +1,8 @@
+D:\新建文件夹\CurPosion\CurPosion\bin\Debug\CurPosion.exe
+D:\新建文件夹\CurPosion\CurPosion\bin\Debug\CurPosion.pdb
+D:\新建文件夹\CurPosion\CurPosion\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\CurPosion\CurPosion\obj\Debug\CurPosion.Form1.resources
+D:\新建文件夹\CurPosion\CurPosion\obj\Debug\CurPosion.Properties.Resources.resources
+D:\新建文件夹\CurPosion\CurPosion\obj\Debug\CurPosion.csproj.GenerateResource.Cache
+D:\新建文件夹\CurPosion\CurPosion\obj\Debug\CurPosion.exe
+D:\新建文件夹\CurPosion\CurPosion\obj\Debug\CurPosion.pdb

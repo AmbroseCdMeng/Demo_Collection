@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>TreeView设计</title>
+    <script src="jquery-1.8.2.min.js"></script>
+    <style type="text/css">
+        * {
+            padding:0px; margin:0px;
+        }
+        body {
+            font:13px;                
+        }
+
+        a {
+            text-decoration:none;
+        }
+
+        #container {
+            margin:0 auto; width:850px; height:400px; border:solid 1px #999;
+        }
+
+        #menu {
+            width:250px; float:left; border:solid 1px #999; margin-right:15px;
+        }
+                
+         #menu ul {
+            list-style:none;
+            padding:0px; margin :0px; cursor:pointer;
+        }
+
+        #menu li{
+            margin:0px 0px 0px 30px; padding:0;
+        }
+
+            /*#menu ul li ul {
+                display:none;
+            }*/
+
+        #content {
+            float:right; width:550px;height:400px;text-align:center; background-color:#999;
+        }
+
+        #content a{
+            color:#666;line-height:50px;
+        }
+        /*动态添加样式*/
+
+        #menu .smybols {            
+            float:left; width:12px; height:12px; background-repeat:no-repeat; background-position:0px 3px;  
+        }
+
+        #menu .bgplus {
+            background:url("../images/jia.jpg");
+        }
+
+        #menu .bgminus {
+            background:url("../images/down.jpg");
+        }
+
+    </style>
+    
+     <script type="text/javascript">
+         function initTree() {
+             var $menu = $("div#menu>ul").find("li:has(ul:not(:empty))");         //获取嵌套了ul的li标签
+             $menu.each(function () {                                    //遍励
+                 var $spanMenuIcon = $("<spqn class='smybols'></span>"); //添加 + 图标
+                 $spanMenuIcon.addClass("bgplus").removeClass("bgminus");
+
+                 $spanMenuIcon.prependTo($(this));               //添加span标签
+
+                 //var $spanMenuUl = $(this).find("ul").eq(0);                 //获取下层子节点
+             });
+             //    //绑定span标签，实现下级菜单的滑入滑出和图标切换
+             //    $spanMenuIcon.click(function () {
+             //        if ($(this).hasClass("bgplus")) {
+             //            $spanMenuUl.slideDown("slow");          //如果点击的是+，下层展开，切换成-
+             //            $(this).addClass("bgminus").removeClass("bgplus");
+             //        } else {
+             //            $spanMenuUl.sldeUp("slow");
+             //            $(this).addClass("bgminus").removeClass("bgminus");
+             //        }
+             //    });
+             //});
+             //遍励结束
+             var $noMenu = $("div#menu>ul").find("li:not(li:has(ul))");      //获取无下层的节点li
+             $noMenu.each(function () {
+                 $spanMenuIcon = $("<span class='smybols'></span>");
+                 $spanMenuIcon.css({ "background-image": "url(images/wu.jpg)" });
+                 $spanMenuIcon.prependTo($(this));
+             });
+         }
+         $(function () {
+             initTree();
+         });
+    </script>
+     
+</head>
+<body>
+    
+     <div id="container">
+      <div id="menu">
+          <ul class="first" id="nav">
+              <li><a href="#">商品全部分类</a>
+             
+              <ul>                              <!--//二级菜单-->
+                  <li><a href="#">美食</a></li>
+                  <li><a href="#">旅游</a></li>
+                  <li><a href="#">酒店</a>
+                      <ul>
+                          <li><a href="#">豪华酒店</a>
+                          <li><a href="#">公寓酒店</a>
+                          <li><a href="#">度假首选</a>      
+                          <li><a href="#">经济有爱</a>  
+                          <li><a href="#">客栈情怀</a>  
+                      </ul>
+                  </li>
+                  <li><a href="#">电影</a>
+                  <li><a href="#">KTV</a>
+                  <li><a href="#">时尚</a>
+                  <li><a href="#">生活服务</a>
+              </ul>            
+             </li>
+          </ul>
+
+      </div>
+
+     <div id="content"><a>网页的主要内容</a></div>
+            
+     </div>
+     
+</body>
+</html>

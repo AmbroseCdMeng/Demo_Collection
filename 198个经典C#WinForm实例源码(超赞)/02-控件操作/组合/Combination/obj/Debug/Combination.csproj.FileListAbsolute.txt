@@ -1,0 +1,9 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\Combination.LabelAndText.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\Combination.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\Combination.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\bin\Debug\Combination.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\bin\Debug\Combination.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\Combination.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\Combination.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\014\sj\01\Combination\Combination\obj\Debug\Combination.Form1.resources

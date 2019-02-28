@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\obj\Debug\SEmailWithAtt.frmSend.resources
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\obj\Debug\SEmailWithAtt.Properties.Resources.resources
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\obj\Debug\SEmailWithAtt.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\bin\Debug\SEmailWithAtt.exe
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\bin\Debug\SEmailWithAtt.pdb
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\obj\Debug\SEmailWithAtt.exe
+F:\源码\C#范例手册\08\086\sj\02\SEmailWithAtt\SEmailWithAtt\obj\Debug\SEmailWithAtt.pdb

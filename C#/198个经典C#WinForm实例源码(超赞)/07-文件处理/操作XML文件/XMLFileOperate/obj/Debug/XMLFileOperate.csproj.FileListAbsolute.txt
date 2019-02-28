@@ -1,0 +1,8 @@
+F:\Practise\002\XMLFileOperate\XMLFileOperate\obj\Debug\ResolveAssemblyReference.cache
+F:\Practise\002\XMLFileOperate\XMLFileOperate\obj\Debug\XMLFileOperate.Form1.resources
+F:\Practise\002\XMLFileOperate\XMLFileOperate\obj\Debug\XMLFileOperate.Properties.Resources.resources
+F:\Practise\002\XMLFileOperate\XMLFileOperate\obj\Debug\XMLFileOperate.csproj.GenerateResource.Cache
+F:\Practise\002\XMLFileOperate\XMLFileOperate\bin\Debug\XMLFileOperate.exe
+F:\Practise\002\XMLFileOperate\XMLFileOperate\bin\Debug\XMLFileOperate.pdb
+F:\Practise\002\XMLFileOperate\XMLFileOperate\obj\Debug\XMLFileOperate.exe
+F:\Practise\002\XMLFileOperate\XMLFileOperate\obj\Debug\XMLFileOperate.pdb

@@ -1,0 +1,8 @@
+D:\新建文件夹\ImageDate\ImageDate\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\ImageDate\ImageDate\obj\Debug\ImageDate.Form1.resources
+D:\新建文件夹\ImageDate\ImageDate\obj\Debug\ImageDate.Properties.Resources.resources
+D:\新建文件夹\ImageDate\ImageDate\obj\Debug\ImageDate.csproj.GenerateResource.Cache
+D:\新建文件夹\ImageDate\ImageDate\bin\Debug\ImageDate.exe
+D:\新建文件夹\ImageDate\ImageDate\bin\Debug\ImageDate.pdb
+D:\新建文件夹\ImageDate\ImageDate\obj\Debug\ImageDate.exe
+D:\新建文件夹\ImageDate\ImageDate\obj\Debug\ImageDate.pdb

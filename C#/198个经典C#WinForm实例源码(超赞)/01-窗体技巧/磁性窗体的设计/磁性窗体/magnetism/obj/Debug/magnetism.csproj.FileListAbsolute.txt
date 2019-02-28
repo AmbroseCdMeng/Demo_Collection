@@ -1,0 +1,10 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.Frm_Libretto.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.Frm_ListBox.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.Frm_Play.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\bin\Debug\magnetism.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\bin\Debug\magnetism.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\002\sj\magnetism\magnetism\obj\Debug\magnetism.pdb

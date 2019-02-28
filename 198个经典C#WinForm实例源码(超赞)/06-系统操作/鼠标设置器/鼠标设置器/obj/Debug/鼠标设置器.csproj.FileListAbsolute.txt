@@ -1,0 +1,10 @@
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\bin\Debug\鼠标设置器.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\bin\Debug\鼠标设置器.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sl\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sl\鼠标设置器\鼠标设置器\obj\Debug\鼠标设置器.pdb

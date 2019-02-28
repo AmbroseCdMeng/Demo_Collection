@@ -1,0 +1,8 @@
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\bin\Debug\listviewItemAdd.exe
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\bin\Debug\listviewItemAdd.pdb
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\obj\Debug\listviewItemAdd.Form1.resources
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\obj\Debug\listviewItemAdd.Properties.Resources.resources
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\obj\Debug\listviewItemAdd.csproj.GenerateResource.Cache
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\obj\Debug\listviewItemAdd.exe
+D:\新建文件夹\listviewItemAdd\listviewItemAdd\obj\Debug\listviewItemAdd.pdb

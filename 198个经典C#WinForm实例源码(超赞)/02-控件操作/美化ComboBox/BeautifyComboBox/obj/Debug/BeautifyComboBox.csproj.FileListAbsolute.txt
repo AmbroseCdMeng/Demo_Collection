@@ -1,0 +1,11 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.B_ComboBox.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\bin\Debug\BeautifyComboBox.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\bin\Debug\BeautifyComboBox.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\013\sj\01\BeautifyComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.Form1.resources
+E:\Study\C#范例自学源码\02\美化ComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.exe
+E:\Study\C#范例自学源码\02\美化ComboBox\BeautifyComboBox\obj\Debug\BeautifyComboBox.pdb

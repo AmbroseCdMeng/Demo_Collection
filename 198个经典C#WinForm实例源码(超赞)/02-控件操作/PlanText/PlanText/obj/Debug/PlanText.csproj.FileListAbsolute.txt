@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\obj\Debug\PlanText.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\obj\Debug\PlanText.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\obj\Debug\PlanText.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\bin\Debug\PlanText.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\bin\Debug\PlanText.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\obj\Debug\PlanText.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\015\sj\01\PlanText\PlanText\obj\Debug\PlanText.pdb

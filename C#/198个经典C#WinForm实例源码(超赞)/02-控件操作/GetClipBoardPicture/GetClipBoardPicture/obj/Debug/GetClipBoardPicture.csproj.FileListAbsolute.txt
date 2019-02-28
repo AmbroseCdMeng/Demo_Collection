@@ -1,0 +1,8 @@
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\obj\Debug\ResolveAssemblyReference.cache
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\obj\Debug\GetClipBoardPicture.Form1.resources
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\obj\Debug\GetClipBoardPicture.csproj.GenerateResource.Cache
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\bin\Debug\GetClipBoardPicture.exe
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\bin\Debug\GetClipBoardPicture.pdb
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\obj\Debug\GetClipBoardPicture.Properties.Resources.resources
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\obj\Debug\GetClipBoardPicture.exe
+F:\部门文档\第二章\sj\01\GetClipBoardPicture\GetClipBoardPicture\obj\Debug\GetClipBoardPicture.pdb

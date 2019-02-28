@@ -1,0 +1,8 @@
+D:\新建文件夹\DrawBackground\DrawBackground\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\DrawBackground\DrawBackground\obj\Debug\DrawBackground.Form1.resources
+D:\新建文件夹\DrawBackground\DrawBackground\obj\Debug\DrawBackground.Properties.Resources.resources
+D:\新建文件夹\DrawBackground\DrawBackground\obj\Debug\DrawBackground.csproj.GenerateResource.Cache
+D:\新建文件夹\DrawBackground\DrawBackground\bin\Debug\DrawBackground.exe
+D:\新建文件夹\DrawBackground\DrawBackground\bin\Debug\DrawBackground.pdb
+D:\新建文件夹\DrawBackground\DrawBackground\obj\Debug\DrawBackground.exe
+D:\新建文件夹\DrawBackground\DrawBackground\obj\Debug\DrawBackground.pdb

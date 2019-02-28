@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\08\ScanIP\ScanIP\bin\Debug\ScanIP.exe
+F:\源码\C#范例手册\08\ScanIP\ScanIP\bin\Debug\ScanIP.pdb
+F:\源码\C#范例手册\08\ScanIP\ScanIP\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\08\ScanIP\ScanIP\obj\Debug\ScanIP.Form1.resources
+F:\源码\C#范例手册\08\ScanIP\ScanIP\obj\Debug\ScanIP.Properties.Resources.resources
+F:\源码\C#范例手册\08\ScanIP\ScanIP\obj\Debug\ScanIP.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\ScanIP\ScanIP\obj\Debug\ScanIP.exe
+F:\源码\C#范例手册\08\ScanIP\ScanIP\obj\Debug\ScanIP.pdb

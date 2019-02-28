@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>animate--自定义图片大小</title>
+    <script src="jquery-1.8.2.min.js"></script>
+    <style type="text/css">
+        * {
+            margin:0; padding:0;
+        }
+
+        ul {
+            list-style:none;
+        }
+
+        #main {
+            margin:20px; width:200px; height:300px; overflow:hidden; position:relative;
+        }
+
+        #main li {
+            width:200px; height:300px;
+        }
+
+       #main img {
+           border:none;
+       }
+
+      #imgid {
+          position:absolute; left:5px; bottom:5px; z-index:100;
+      }
+
+        #imgid li {
+            float:left; color:#069; text-align: center; line-height:16px; width:16px; height:16px; font:12px; font-family:"宋体"; cursor:pointer;
+            overflow:hidden; margin:3px 1px; border:solid 1px #069;  background-color:#fff;
+        }
+
+            #imgid li.active {              /*当前播放图片的编号样式*/
+                color:#fff; line-height:16px; width:16px; height:16px; font-size:14px; margin:3px 1px; border:solid 1px #069; 
+                background-color:#069; font-weight:bold;
+            }
+    </style>
+
+    <script type="text/javascript">
+        function turnPics() {
+            var index = 0;                       //当前播放图片的索引
+            var stop = false;                    //是否为手动播放，默认false为自动播放
+            var $pagesLis = $("#main").find("#imgid li");                //保存组织编号的li  pagesLis保存li标签
+            $pagesLis.eq(index).addClass("active").siblings()           // siblings()兄弟元素
+                                                  .removeClass("active");
+            var mianDivh = $("div#main").height();                      //获取div的高度   变量mianDivh保存id=main的高度
+
+            //自动播放
+            setInterval(function () {
+                if (stop) return;
+                index++;
+                if (index == $pagesLis.length) {
+                    index = 0;          //从头播放
+                }
+                $("ul#imgul").stop(true, true)                //清空序列，立即完成正在执行的动画
+                    .animate({ "marginTop": -mianDivh * index }, 1000);
+                $pagesLis.eq(index)                     //当前图片编号高亮显示
+                    .addClass("active")
+                    .siblings()
+                    .removeClass("active");
+            }, 3000);
+
+            //控制手动播放
+            $pagesLis.mouseover(function () {
+                stop = true;                            //自动轮播结束
+                index = $pagesLis.index($(this));       //移入的编号
+                $("ul#imgul").stop(true, true)           //清空序列，立即完成正在执行的动画
+                   .animate({ "marginTop": -mianDivh * index }, 1000);
+                $(this).addClass("active")
+                .siblings()
+                .removeClass("active");
+            }).mouseout(function () {
+                stop = false;
+            });
+        }
+
+        //调用turnPics函数
+        $(function () {
+            turnPics();    //轮播
+        });
+
+
+
+    </script>
+    
+</head>
+<body>
+     <div id="main">
+         <ul id="imgul">
+             <li><a href="#"><img src="images/P2.jpg" width="200" height="300" /></a></li>
+             <li><a href="#"><img src="images/P1.jpg" width="200" height="300" /></a></li>
+             <li><a href="#"><img src="images/P41.jpg" width="200" height="300" /></a></li>
+             <li><a href="#"><img src="images/P43.jpg" width="200" height="300" /></a></li>
+         </ul>
+
+         <ul id="imgid">
+             <li>1</li>
+             <li>2</li>
+             <li>3</li>
+             <li>4</li>
+         </ul>
+
+     </div>
+    
+</body>
+</html>

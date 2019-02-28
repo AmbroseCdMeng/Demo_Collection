@@ -1,0 +1,10 @@
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\bin\Debug\自定义屏保.exe
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\bin\Debug\自定义屏保.pdb
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\obj\Debug\自定义屏保.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\obj\Debug\自定义屏保.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\obj\Debug\自定义屏保.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\obj\Debug\自定义屏保.exe
+E:\2008-9月以后的任务\C#范例手册程序\1章\自定义屏保\自定义屏保\obj\Debug\自定义屏保.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\006\自定义屏保\自定义屏保\obj\Debug\自定义屏保.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\006\自定义屏保\自定义屏保\obj\Debug\自定义屏保.pdb

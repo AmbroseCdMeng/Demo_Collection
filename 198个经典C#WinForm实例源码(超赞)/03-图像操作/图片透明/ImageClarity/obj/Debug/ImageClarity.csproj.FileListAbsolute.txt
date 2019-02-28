@@ -1,0 +1,8 @@
+D:\新建文件夹\ImageClarity\ImageClarity\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\ImageClarity\ImageClarity\obj\Debug\ImageClarity.Form1.resources
+D:\新建文件夹\ImageClarity\ImageClarity\obj\Debug\ImageClarity.Properties.Resources.resources
+D:\新建文件夹\ImageClarity\ImageClarity\obj\Debug\ImageClarity.csproj.GenerateResource.Cache
+D:\新建文件夹\ImageClarity\ImageClarity\bin\Debug\ImageClarity.exe
+D:\新建文件夹\ImageClarity\ImageClarity\bin\Debug\ImageClarity.pdb
+D:\新建文件夹\ImageClarity\ImageClarity\obj\Debug\ImageClarity.exe
+D:\新建文件夹\ImageClarity\ImageClarity\obj\Debug\ImageClarity.pdb

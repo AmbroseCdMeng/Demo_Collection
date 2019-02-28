@@ -1,0 +1,15 @@
+D:\新建文件夹\WordToRtf\WordToRtf\bin\Debug\WordToRtf.exe
+D:\新建文件夹\WordToRtf\WordToRtf\bin\Debug\WordToRtf.pdb
+D:\新建文件夹\WordToRtf\WordToRtf\bin\Debug\Interop.Office.dll
+D:\新建文件夹\WordToRtf\WordToRtf\bin\Debug\Interop.VBIDE.dll
+D:\新建文件夹\WordToRtf\WordToRtf\bin\Debug\Interop.Word.dll
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\Interop.Office.dll
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\Interop.VBIDE.dll
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\Interop.Word.dll
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\WordToRtf.csproj.ResolveComReference.cache
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\WordToRtf.Form1.resources
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\WordToRtf.Properties.Resources.resources
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\WordToRtf.csproj.GenerateResource.Cache
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\WordToRtf.exe
+D:\新建文件夹\WordToRtf\WordToRtf\obj\Debug\WordToRtf.pdb

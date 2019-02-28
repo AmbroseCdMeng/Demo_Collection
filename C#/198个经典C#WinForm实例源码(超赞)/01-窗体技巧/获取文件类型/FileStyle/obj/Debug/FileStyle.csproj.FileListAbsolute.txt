@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\bin\Debug\FileStyle.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\bin\Debug\FileStyle.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\obj\Debug\FileStyle.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\obj\Debug\FileStyle.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\obj\Debug\FileStyle.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\obj\Debug\FileStyle.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\02\FileStyle\FileStyle\obj\Debug\FileStyle.pdb

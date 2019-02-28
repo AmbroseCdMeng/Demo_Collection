@@ -1,0 +1,16 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\obj\Debug\BarterSkin.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\obj\Debug\BarterSkin.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\obj\Debug\BarterSkin.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\bin\Debug\BarterSkin.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\bin\Debug\BarterSkin.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\obj\Debug\BarterSkin.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\001\sj\01\BarterSkin\BarterSkin\obj\Debug\BarterSkin.pdb
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\obj\Debug\BarterSkin.exe
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\obj\Debug\BarterSkin.pdb
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\bin\Debug\BarterSkin.exe
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\bin\Debug\BarterSkin.pdb
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\obj\Debug\ResolveAssemblyReference.cache
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\obj\Debug\BarterSkin.Form1.resources
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\obj\Debug\BarterSkin.Properties.Resources.resources
+D:\C#资料下载\C#Winform实例\01-窗体技巧\窗体换肤\BarterSkin\obj\Debug\BarterSkin.csproj.GenerateResource.Cache

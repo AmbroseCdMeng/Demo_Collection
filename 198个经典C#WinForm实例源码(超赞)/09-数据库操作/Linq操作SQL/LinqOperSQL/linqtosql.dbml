@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="db_05" Class="linqtosqlDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local);Initial Catalog=db_05;User ID=sa" SettingsObjectName="LinqOperSQL.Properties.Settings" SettingsPropertyName="db_05ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_Employee" Member="tb_Employee">
+    <Type Name="tb_Employee">
+      <Column Name="ID" Type="System.String" DbType="VarChar(20)" IsPrimaryKey="true" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Sex" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tel" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="QQ" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

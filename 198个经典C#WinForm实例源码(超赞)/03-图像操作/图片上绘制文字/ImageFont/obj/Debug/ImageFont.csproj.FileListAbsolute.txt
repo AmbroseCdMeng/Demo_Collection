@@ -1,0 +1,8 @@
+D:\新建文件夹\ImageFont\ImageFont\bin\Debug\ImageFont.exe
+D:\新建文件夹\ImageFont\ImageFont\bin\Debug\ImageFont.pdb
+D:\新建文件夹\ImageFont\ImageFont\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\ImageFont\ImageFont\obj\Debug\ImageFont.Form1.resources
+D:\新建文件夹\ImageFont\ImageFont\obj\Debug\ImageFont.Properties.Resources.resources
+D:\新建文件夹\ImageFont\ImageFont\obj\Debug\ImageFont.csproj.GenerateResource.Cache
+D:\新建文件夹\ImageFont\ImageFont\obj\Debug\ImageFont.exe
+D:\新建文件夹\ImageFont\ImageFont\obj\Debug\ImageFont.pdb

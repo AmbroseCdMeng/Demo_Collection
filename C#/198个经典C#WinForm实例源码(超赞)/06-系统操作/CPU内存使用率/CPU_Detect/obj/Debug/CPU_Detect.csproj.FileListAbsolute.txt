@@ -1,0 +1,18 @@
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\obj\Debug\CPU_Detect.Form1.resources
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\obj\Debug\CPU_Detect.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\obj\Debug\CPU_Detect.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\bin\Debug\CPU_Detect.exe
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\bin\Debug\CPU_Detect.pdb
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\obj\Debug\CPU_Detect.exe
+E:\工作文稿\范例宝典精华版\CPU_Detect\CPU_Detect\obj\Debug\CPU_Detect.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\obj\Debug\CPU_Detect.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\obj\Debug\CPU_Detect.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\bin\Debug\CPU_Detect.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\bin\Debug\CPU_Detect.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\obj\Debug\CPU_Detect.Form1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\obj\Debug\CPU_Detect.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\监视CPU占用率\CPU_Detect\obj\Debug\CPU_Detect.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\06\058\sl\CPU_Detect\obj\Debug\CPU_Detect.exe
+E:\工作文稿\C#范例手册\06\058\sl\CPU_Detect\obj\Debug\CPU_Detect.pdb

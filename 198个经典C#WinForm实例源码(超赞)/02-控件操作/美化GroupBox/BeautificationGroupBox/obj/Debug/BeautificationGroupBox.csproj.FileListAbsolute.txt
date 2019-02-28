@@ -1,0 +1,9 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\BeautificationGroupBox.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\BeautificationGroupBox.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\bin\Debug\BeautificationGroupBox.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\bin\Debug\BeautificationGroupBox.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\BeautificationGroupBox.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\BeautificationGroupBox.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\BeautificationGroupBox.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\012\sj\02\BeautificationGroupBox\BeautificationGroupBox\obj\Debug\BeautificationGroupBox.B_GroupBox.resources

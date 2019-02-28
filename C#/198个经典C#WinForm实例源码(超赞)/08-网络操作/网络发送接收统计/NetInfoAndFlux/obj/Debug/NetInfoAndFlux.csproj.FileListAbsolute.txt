@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\bin\Debug\NetInfoAndFlux.exe
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\bin\Debug\NetInfoAndFlux.pdb
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\obj\Debug\NetInfoAndFlux.Form1.resources
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\obj\Debug\NetInfoAndFlux.Properties.Resources.resources
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\obj\Debug\NetInfoAndFlux.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\obj\Debug\NetInfoAndFlux.exe
+F:\源码\C#范例手册\08\NetInfoAndFlux\NetInfoAndFlux\obj\Debug\NetInfoAndFlux.pdb

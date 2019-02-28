@@ -1,0 +1,26 @@
+E:\范例宝典精华版\CompressImg\CompressImg\bin\Debug\CompressImg.exe
+E:\范例宝典精华版\CompressImg\CompressImg\bin\Debug\CompressImg.pdb
+E:\范例宝典精华版\CompressImg\CompressImg\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\CompressImg\CompressImg\obj\Debug\CompressImg.Form1.resources
+E:\范例宝典精华版\CompressImg\CompressImg\obj\Debug\CompressImg.Properties.Resources.resources
+E:\范例宝典精华版\CompressImg\CompressImg\obj\Debug\CompressImg.csproj.GenerateResource.Cache
+E:\范例宝典精华版\CompressImg\CompressImg\obj\Debug\CompressImg.exe
+E:\范例宝典精华版\CompressImg\CompressImg\obj\Debug\CompressImg.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\bin\Debug\CompressImg.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\bin\Debug\CompressImg.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\obj\Debug\CompressImg.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\bin\Debug\CompressImg.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\无损压缩图片\CompressImg\bin\Debug\CompressImg.pdb
+E:\工作文稿\C#范例手册\03\024\sl\CompressImg\obj\Debug\CompressImg.exe
+E:\工作文稿\C#范例手册\03\024\sl\CompressImg\obj\Debug\CompressImg.pdb

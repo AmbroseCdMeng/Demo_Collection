@@ -1,0 +1,8 @@
+F:\Practise\001\INIFileOperate\INIFileOperate\bin\Debug\INIFileOperate.exe
+F:\Practise\001\INIFileOperate\INIFileOperate\bin\Debug\INIFileOperate.pdb
+F:\Practise\001\INIFileOperate\INIFileOperate\obj\Debug\ResolveAssemblyReference.cache
+F:\Practise\001\INIFileOperate\INIFileOperate\obj\Debug\INIFileOperate.Form1.resources
+F:\Practise\001\INIFileOperate\INIFileOperate\obj\Debug\INIFileOperate.Properties.Resources.resources
+F:\Practise\001\INIFileOperate\INIFileOperate\obj\Debug\INIFileOperate.csproj.GenerateResource.Cache
+F:\Practise\001\INIFileOperate\INIFileOperate\obj\Debug\INIFileOperate.exe
+F:\Practise\001\INIFileOperate\INIFileOperate\obj\Debug\INIFileOperate.pdb

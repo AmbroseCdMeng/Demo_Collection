@@ -1,0 +1,8 @@
+D:\新建文件夹\Microimage\Microimage\bin\Debug\Microimage.exe
+D:\新建文件夹\Microimage\Microimage\bin\Debug\Microimage.pdb
+D:\新建文件夹\Microimage\Microimage\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\Microimage\Microimage\obj\Debug\Microimage.Form1.resources
+D:\新建文件夹\Microimage\Microimage\obj\Debug\Microimage.Properties.Resources.resources
+D:\新建文件夹\Microimage\Microimage\obj\Debug\Microimage.csproj.GenerateResource.Cache
+D:\新建文件夹\Microimage\Microimage\obj\Debug\Microimage.exe
+D:\新建文件夹\Microimage\Microimage\obj\Debug\Microimage.pdb

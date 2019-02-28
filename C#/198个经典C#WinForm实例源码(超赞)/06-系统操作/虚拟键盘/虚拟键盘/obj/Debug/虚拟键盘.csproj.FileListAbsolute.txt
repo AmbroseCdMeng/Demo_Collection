@@ -1,0 +1,10 @@
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\bin\Debug\虚拟键盘.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\bin\Debug\虚拟键盘.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\obj\Debug\虚拟键盘.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\obj\Debug\虚拟键盘.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\obj\Debug\虚拟键盘.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\obj\Debug\虚拟键盘.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\obj\Debug\虚拟键盘.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\bin\Debug\HookEx.dll
+E:\2008-9月以后的任务\C#范例手册程序\5章\虚拟键盘\虚拟键盘\bin\Debug\HookEx.pdb

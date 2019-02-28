@@ -1,0 +1,41 @@
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\bin\Debug\fingerprint.exe
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\bin\Debug\fingerprint.pdb
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.Form1.resources
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.Properties.Resources.resources
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.GenerateResource.Cache
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.exe
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.pdb
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\Interop.ZKFPEngXControl.dll
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\AxInterop.ZKFPEngXControl.dll
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.ResolveComReference.cache
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\bin\Debug\Interop.ZKFPEngXControl.dll
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\bin\Debug\AxInterop.ZKFPEngXControl.dll
+E:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\obj\Debug\fingerprint.Form2.resources
+C:\指纹考勤\fingerprint\fingerprint\obj\Debug\Interop.ZKFPEngXControl.dll
+C:\指纹考勤\fingerprint\fingerprint\obj\Debug\AxInterop.ZKFPEngXControl.dll
+C:\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.ResolveComReference.cache
+C:\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.exe
+C:\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.pdb
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\Interop.ZKFPEngXControl.dll
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\AxInterop.ZKFPEngXControl.dll
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.ResolveComReference.cache
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.exe
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.pdb
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\bin\Debug\fingerprint.exe
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\bin\Debug\fingerprint.pdb
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\bin\Debug\Interop.ZKFPEngXControl.dll
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\bin\Debug\AxInterop.ZKFPEngXControl.dll
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\ResolveAssemblyReference.cache
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.Form1.resources
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.Form2.resources
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.Properties.Resources.resources
+E:\C#录像\吕双\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\11章\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.ResolveComReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\11章\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.exe
+E:\2008-9月以后的任务\C#范例手册程序\11章\指纹考勤\fingerprint\fingerprint\obj\Debug\fingerprint.pdb
+E:\2008-9月以后的任务\C#范例手册程序\11章\指纹考勤\fingerprint\fingerprint\obj\Debug\Interop.ZKFPEngXControl.dll
+E:\2008-9月以后的任务\C#范例手册程序\11章\指纹考勤\fingerprint\fingerprint\obj\Debug\AxInterop.ZKFPEngXControl.dll
+C:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\fingerprint\obj\Debug\fingerprint.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\fingerprint\obj\Debug\fingerprint.exe
+C:\Documents and Settings\Administrator\桌面\fingerprint\fingerprint\fingerprint\obj\Debug\fingerprint.pdb

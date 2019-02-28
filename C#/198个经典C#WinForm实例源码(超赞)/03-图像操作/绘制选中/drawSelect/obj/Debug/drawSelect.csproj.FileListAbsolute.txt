@@ -1,0 +1,9 @@
+D:\新建文件夹\drawSelect\drawSelect\bin\Debug\drawSelect.exe
+D:\新建文件夹\drawSelect\drawSelect\bin\Debug\drawSelect.pdb
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\drawSelect.Form1.resources
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\drawSelect.Properties.Resources.resources
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\drawSelect.csproj.GenerateResource.Cache
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\drawSelect.exe
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\drawSelect.pdb
+D:\新建文件夹\drawSelect\drawSelect\obj\Debug\drawSelect.Form2.resources

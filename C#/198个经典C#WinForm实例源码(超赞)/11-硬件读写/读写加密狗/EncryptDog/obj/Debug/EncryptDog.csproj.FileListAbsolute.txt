@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\obj\Debug\EncryptDog.Form1.resources
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\obj\Debug\EncryptDog.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\obj\Debug\EncryptDog.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\bin\Debug\EncryptDog.exe
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\bin\Debug\EncryptDog.pdb
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\obj\Debug\EncryptDog.exe
+C:\Documents and Settings\Administrator\桌面\EncryptDog\EncryptDog\obj\Debug\EncryptDog.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\obj\Debug\EncryptDog.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\obj\Debug\EncryptDog.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\bin\Debug\EncryptDog.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\bin\Debug\EncryptDog.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\obj\Debug\EncryptDog.Form1.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\obj\Debug\EncryptDog.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\加密狗实现软件注册\EncryptDog\EncryptDog\obj\Debug\EncryptDog.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\obj\Debug\EncryptDog.exe
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\obj\Debug\EncryptDog.pdb
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\bin\Debug\EncryptDog.exe
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\bin\Debug\EncryptDog.pdb
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\obj\Debug\EncryptDog.Form1.resources
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\obj\Debug\EncryptDog.Properties.Resources.resources
+E:\工作文稿\C#范例手册\11\112\sl\EncryptDog\obj\Debug\EncryptDog.csproj.GenerateResource.Cache

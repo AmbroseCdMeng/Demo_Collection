@@ -1,0 +1,30 @@
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Form1.resources
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.GenerateResource.Cache
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\工作文稿\范例宝典精华版\ImgMicroimage\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\bin\Debug\ImgMicroimage.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\bin\Debug\ImgMicroimage.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\bin\Debug\Interop.Scripting.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\Interop.Scripting.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片缩略图\ImgMicroimage\obj\Debug\ImgMicroimage.pdb

@@ -1,0 +1,18 @@
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\bin\Debug\FileBatchChangeName.exe
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\bin\Debug\FileBatchChangeName.pdb
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.Form1.resources
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.exe
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.pdb
+E:\工作文稿\范例宝典精华版\FileBatchChangeName\FileBatchChangeName\obj\Debug\FileBatchChangeName.AboutBox1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\FileBatchChangeName.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\FileBatchChangeName.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\bin\Debug\FileBatchChangeName.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\bin\Debug\FileBatchChangeName.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\FileBatchChangeName.AboutBox1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\FileBatchChangeName.Form1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\FileBatchChangeName.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量更名\FileBatchChangeName\obj\Debug\FileBatchChangeName.csproj.GenerateResource.Cache

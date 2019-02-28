@@ -1,0 +1,10 @@
+D:\新建文件夹\Compositing\Compositing\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\Compositing\Compositing\obj\Debug\Compositing.Form1.resources
+D:\新建文件夹\Compositing\Compositing\obj\Debug\Compositing.Properties.Resources.resources
+D:\新建文件夹\Compositing\Compositing\obj\Debug\Compositing.csproj.GenerateResource.Cache
+D:\新建文件夹\Compositing\Compositing\bin\Debug\Compositing.exe
+D:\新建文件夹\Compositing\Compositing\bin\Debug\Compositing.pdb
+D:\新建文件夹\Compositing\Compositing\obj\Debug\Compositing.exe
+D:\新建文件夹\Compositing\Compositing\obj\Debug\Compositing.pdb
+E:\工作文稿\C#范例手册\03\024\sj\01\Compositing\Compositing\obj\Debug\Compositing.exe
+E:\工作文稿\C#范例手册\03\024\sj\01\Compositing\Compositing\obj\Debug\Compositing.pdb

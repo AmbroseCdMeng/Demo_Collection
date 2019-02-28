@@ -1,0 +1,8 @@
+D:\新建文件夹\GetNowTime\GetNowTime\bin\Debug\GetNowTime.exe
+D:\新建文件夹\GetNowTime\GetNowTime\bin\Debug\GetNowTime.pdb
+D:\新建文件夹\GetNowTime\GetNowTime\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\GetNowTime\GetNowTime\obj\Debug\GetNowTime.Form1.resources
+D:\新建文件夹\GetNowTime\GetNowTime\obj\Debug\GetNowTime.Properties.Resources.resources
+D:\新建文件夹\GetNowTime\GetNowTime\obj\Debug\GetNowTime.csproj.GenerateResource.Cache
+D:\新建文件夹\GetNowTime\GetNowTime\obj\Debug\GetNowTime.exe
+D:\新建文件夹\GetNowTime\GetNowTime\obj\Debug\GetNowTime.pdb

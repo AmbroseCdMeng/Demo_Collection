@@ -1,0 +1,18 @@
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\bin\Debug\DynamicTaskStock.exe
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\bin\Debug\DynamicTaskStock.pdb
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\obj\Debug\DynamicTaskStock.Form1.resources
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\obj\Debug\DynamicTaskStock.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\obj\Debug\DynamicTaskStock.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\obj\Debug\DynamicTaskStock.exe
+E:\工作文稿\范例宝典精华版\DynamicTaskStock\DynamicTaskStock\obj\Debug\DynamicTaskStock.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\obj\Debug\DynamicTaskStock.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\obj\Debug\DynamicTaskStock.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\bin\Debug\DynamicTaskStock.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\bin\Debug\DynamicTaskStock.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\obj\Debug\DynamicTaskStock.Form1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\obj\Debug\DynamicTaskStock.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\动态系统托盘图标\DynamicTaskStock\obj\Debug\DynamicTaskStock.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\06\063\sl\DynamicTaskStock\obj\Debug\DynamicTaskStock.exe
+E:\工作文稿\C#范例手册\06\063\sl\DynamicTaskStock\obj\Debug\DynamicTaskStock.pdb

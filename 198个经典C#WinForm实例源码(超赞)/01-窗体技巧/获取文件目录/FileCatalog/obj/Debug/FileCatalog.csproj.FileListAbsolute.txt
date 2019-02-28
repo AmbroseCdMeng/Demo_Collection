@@ -1,0 +1,10 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\bin\Debug\FileCatalog.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\bin\Debug\FileCatalog.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\007\sj\01\FileCatalog\FileCatalog\obj\Debug\FileCatalog.pdb
+F:\F1664101\其它\學習資料\198个经典C#WinForm实例源码(超赞)\01-窗体技巧\获取文件目录\FileCatalog\obj\Debug\FileCatalog.exe
+F:\F1664101\其它\學習資料\198个经典C#WinForm实例源码(超赞)\01-窗体技巧\获取文件目录\FileCatalog\obj\Debug\FileCatalog.pdb

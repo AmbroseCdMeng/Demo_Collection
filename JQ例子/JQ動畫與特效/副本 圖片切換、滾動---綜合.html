@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script src="jquery-1.10.2.min.js"></script>
+    <style>
+        body {
+            font-size:12px;
+        }
+        #container {
+            width:880px; margin:0 auto; overflow:hidden;
+        }
+        .banner {
+            width:880px;float:left; margin-left:-35px;
+        }
+
+        ul {
+            list-style:none;
+        }
+
+        #imgs {
+            width:880px; height:280px; overflow:hidden;
+        }
+
+        #numbers {
+             padding-top:0px; padding-left:350px;
+        }
+
+         #numbers li{         
+            float:left; color:#000; text-align: center; line-height:16px; width:16px; height:16px; font:12px; font-family:"宋体"; cursor:pointer;
+            overflow:hidden; border:solid 1px red;  background-color:#fff;
+        }
+
+        /*光標移入選取，邊框高亮顯示*/     
+         #numbers li.active {              /*当前播放图片的编号样式*/
+                color:#000;width:18px; height:17px; font-size:14px;border:solid 1px #fff; 
+                background-color:#ff6a00; font-weight:bold;
+            }
+
+         /*lvyou*/
+        .lvyou {
+            margin-top:2px; border:1px solid #ccc; border-top:solid 3px #090; height:250px; width:878px; margin:0 auto;float:none;overflow:hidden;
+        }
+
+        .lvyou ul {
+            list-style:none; 
+        }
+
+        .lvyou ul li{
+             width:200px; height:250px; float:left;padding-right:15px; 
+        }
+
+        .lvyou ul li a{
+            font-size:12px; font-weight:bold; line-height:23px; color:#333; 
+        }
+
+         .lvyou ul li a:hover{
+            font-size:12px; font-weight:bold; line-height:23px; color:#060; text-decoration:underline;
+        }
+
+        .lvyou ul li span{
+            font-size:12px; font-family:Kartika; color:#060; 
+        }
+
+        .lvyou #img1 {
+            position:absolute; border :solid 1px #ccc; width:200px; height:200px; display:none;
+        }
+    </style>
+
+    <script>
+        //圖片輪播
+        function turnPics() {
+            var index = 0;          //當前播放圖片的索引
+            var stop = false;       //控制自動、手動的切換
+            var $li = $(".banner").find("#imgs li");         //嵌套索引圖片的li
+            var $pageIndex = $(".banner").find("#numbers li");      //顯示所有編號的li
+                                                        //清空动画序列    //兄弟元素      
+            $pageIndex.eq(index).addClass("active").stop(true, true).siblings().removeClass("active");
+
+            //自动播放
+            setInterval(function () {
+                if (stop) return;
+                index++;
+                if (index >= $li.length) {
+                    index = 0;                  //从头播放
+                }
+                $li.eq(index).stop(true, true).fadeIn("slow").siblings().fadeOut("slow");
+                $pageIndex.eq(index).addClass("active").stop(true, true).siblings().removeClass("active");
+            }, 3000);
+
+            //控制手动播放
+            $pageIndex.mouseover(function () {
+                stop = true;                    //自动播放结束
+                index = $pageIndex.index($(this));          //当前的编号
+                $li.eq(index).stop(true, true).fadeIn("slow").siblings().fadeOut("slow");   //当前编号的图片显示  其他图片隐藏
+                $(this).addClass("active").stop(true, true).siblings().removeClass("active");
+            }).mouseout(function () {
+                stop = false;
+            });
+        }
+        $(function () {
+            turnPics();                     //轮播
+        });
+
+
+        /*小圖片向左滾動特效*/
+        function leftScroll() {
+            var marginLeft = 0;     //左邊距從0開始遞減
+            var stop = false;
+            setInterval(function () {
+                if (stop) return;
+                $(".lvyou").find("li").first().animate({ "margin-left": marginLeft-- }, 0, function () {
+                    var $first = $(this);
+                    if (!$first.is(":animated")) {
+                        if ((-marginLeft) > $first.width() + 1 + 18) {              //1:左右兩邊的人粗細  18：左右兩邊的填充
+                            $first.css({ "margin-left": 0 }).appendTo($(".lvyou ul"));
+                            marginLeft = 0;
+                        }
+                }
+                });
+            }, 18);
+            $(".lvyou ul").mouseover(function () {
+                stop = true;                //停止滾動
+            }).mouseout(function () {
+                stop = false;               //繼續滾動
+            });
+        }
+        //調用函數
+        $(function () {
+            leftScroll();
+        });
+
+       
+
+    </script>
+    
+</head>
+<body>
+    <div id="container">
+    <div class="banner">
+        <ul id="imgs">
+            <li><img src="images/01.jpg" width="880" height="280" /></li>
+            <li><img src="images/02.jpg"  width="880" height="280" /></li>
+            <li><img src="images/03.jpg"  width="880" height="280" /></li>
+            <li><img src="images/04.jpg"  width="880" height="280" /></li>
+            <li><img src="images/05.jpg"  width="880" height="280" /></li>
+        </ul>
+        <ul id="numbers">
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+        </ul>
+
+    </div>
+    <div class="lvyou">
+        <ul>
+            <li><img src="images/P14.jpg"  />
+            <a href="#">1111111</a><br />
+            <span>￥1250起</span>原價4000</li> 
+
+            <li><img src="images/P15.jpg" />
+            <a href="#">2222222</a><br />
+            <span>￥1250起</span>原價4000</li>
+
+            <li><img src="images/P17.jpg" />
+            <a href="#">33333333</a><br />
+            <span>￥1250起</span>原價4000</li>
+
+            <li><img src="images/P18.jpg" />
+            <a href="#">4444444</a><br />
+            <span>￥1250起</span>原價4000</li>            
+
+            <li><img src="images/P12.jpg" />
+            <a href="#">6666666</a><br />
+            <span>￥1250起</span>原價4000</li>            
+
+            <li><img src="images/P19.jpg"  />
+            <a href="#">7777777</a><br />
+            <span>￥1250起</span>原價4000</li>
+
+            <li><img src="images/P6.jpg" />
+            <a href="#">88888888</a><br />
+            <span>￥1250起</span>原價4000</li>
+
+             <li><img src="images/P32.jpg" />
+            <a href="#">5555555</a><br />
+            <span>￥1250起</span>原價4000</li>   
+                        
+        </ul>
+    </div>
+
+
+</div>
+</body>
+</html>

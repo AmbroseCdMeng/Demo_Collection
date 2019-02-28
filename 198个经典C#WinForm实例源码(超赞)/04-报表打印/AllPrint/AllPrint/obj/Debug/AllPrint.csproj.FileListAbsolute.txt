@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\bin\Debug\AllPrint.exe
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\bin\Debug\AllPrint.pdb
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\obj\Debug\AllPrint.Form1.resources
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\obj\Debug\AllPrint.Properties.Resources.resources
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\obj\Debug\AllPrint.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\obj\Debug\AllPrint.exe
+F:\源码\C#范例手册\04\038\sj\01\AllPrint\AllPrint\obj\Debug\AllPrint.pdb

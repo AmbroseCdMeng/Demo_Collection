@@ -1,0 +1,27 @@
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\bin\Debug\IMGwatermark.exe
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\bin\Debug\IMGwatermark.pdb
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\IMGwatermark.Form1.resources
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\IMGwatermark.Properties.Resources.resources
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\IMGwatermark.csproj.GenerateResource.Cache
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\IMGwatermark.exe
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\IMGwatermark.pdb
+E:\范例宝典精华版\IMGwatermark\IMGwatermark\obj\Debug\IMGwatermark.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\bin\Debug\IMGwatermark.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\bin\Debug\IMGwatermark.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\bin\Debug\IMGwatermark.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\bin\Debug\IMGwatermark.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.Form2.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\批量添加水印\IMGwatermark\obj\Debug\IMGwatermark.csproj.GenerateResource.Cache

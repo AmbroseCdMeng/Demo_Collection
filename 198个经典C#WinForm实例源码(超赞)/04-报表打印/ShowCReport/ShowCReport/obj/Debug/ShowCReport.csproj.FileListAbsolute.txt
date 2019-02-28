@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\bin\Debug\ShowCReport.exe
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\bin\Debug\ShowCReport.pdb
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\obj\Debug\ShowCReport.Form1.resources
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\obj\Debug\ShowCReport.Properties.Resources.resources
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\obj\Debug\ShowCReport.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\obj\Debug\ShowCReport.exe
+F:\源码\C#范例手册\04\044\sj\02\ShowCReport\ShowCReport\obj\Debug\ShowCReport.pdb

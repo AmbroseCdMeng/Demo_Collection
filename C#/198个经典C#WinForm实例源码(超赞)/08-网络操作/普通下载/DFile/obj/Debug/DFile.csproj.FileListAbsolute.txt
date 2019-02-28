@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\bin\Debug\DFile.exe
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\bin\Debug\DFile.pdb
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\obj\Debug\DFile.Form1.resources
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\obj\Debug\DFile.Properties.Resources.resources
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\obj\Debug\DFile.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\obj\Debug\DFile.exe
+F:\源码\C#范例手册\08\087\sj\01\DFile\DFile\obj\Debug\DFile.pdb

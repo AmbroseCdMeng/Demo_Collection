@@ -1,0 +1,16 @@
+C:\Practise\ControlFormMove\ControlFormMove\bin\Debug\ControlFormMove.exe
+C:\Practise\ControlFormMove\ControlFormMove\bin\Debug\ControlFormMove.pdb
+C:\Practise\ControlFormMove\ControlFormMove\obj\Debug\ResolveAssemblyReference.cache
+C:\Practise\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.Form1.resources
+C:\Practise\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.Properties.Resources.resources
+C:\Practise\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.csproj.GenerateResource.Cache
+C:\Practise\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.exe
+C:\Practise\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.pdb
+F:\Practise\006\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.exe
+F:\Practise\006\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.pdb
+F:\Practise\006\ControlFormMove\ControlFormMove\bin\Debug\ControlFormMove.exe
+F:\Practise\006\ControlFormMove\ControlFormMove\bin\Debug\ControlFormMove.pdb
+F:\Practise\006\ControlFormMove\ControlFormMove\obj\Debug\ResolveAssemblyReference.cache
+F:\Practise\006\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.Form1.resources
+F:\Practise\006\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.Properties.Resources.resources
+F:\Practise\006\ControlFormMove\ControlFormMove\obj\Debug\ControlFormMove.csproj.GenerateResource.Cache

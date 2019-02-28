@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\obj\Debug\DBCrystalReport.Form1.resources
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\obj\Debug\DBCrystalReport.Properties.Resources.resources
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\obj\Debug\DBCrystalReport.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\bin\Debug\DBCrystalReport.exe
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\bin\Debug\DBCrystalReport.pdb
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\obj\Debug\DBCrystalReport.exe
+F:\源码\C#范例手册\04\DBCrystalReport\DBCrystalReport\obj\Debug\DBCrystalReport.pdb

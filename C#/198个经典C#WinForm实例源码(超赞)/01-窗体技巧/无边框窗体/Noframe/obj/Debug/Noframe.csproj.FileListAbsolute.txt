@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\obj\Debug\Noframe.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\obj\Debug\Noframe.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\obj\Debug\Noframe.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\bin\Debug\Noframe.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\bin\Debug\Noframe.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\obj\Debug\Noframe.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\02\Noframe\Noframe\obj\Debug\Noframe.pdb

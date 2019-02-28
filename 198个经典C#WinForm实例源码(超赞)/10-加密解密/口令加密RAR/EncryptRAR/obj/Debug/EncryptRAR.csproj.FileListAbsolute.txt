@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\bin\Debug\EncryptRAR.exe
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\bin\Debug\EncryptRAR.pdb
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\obj\Debug\EncryptRAR.Form1.resources
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\obj\Debug\EncryptRAR.Properties.Resources.resources
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\obj\Debug\EncryptRAR.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\obj\Debug\EncryptRAR.exe
+F:\源码\C#范例手册\10\108\sj\01\EncryptRAR\EncryptRAR\obj\Debug\EncryptRAR.pdb

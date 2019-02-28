@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\obj\Debug\多功能键盘.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\obj\Debug\多功能键盘.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\bin\Debug\多功能键盘.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\bin\Debug\多功能键盘.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\obj\Debug\多功能键盘.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\obj\Debug\多功能键盘.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\多功能键盘\多功能键盘\obj\Debug\多功能键盘.Form1.resources

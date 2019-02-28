@@ -1,0 +1,27 @@
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\bin\Debug\WordToHtml.exe
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\bin\Debug\WordToHtml.pdb
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\WordToHtml.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\WordToHtml.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\WordToHtml.exe
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\WordToHtml.pdb
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\WordToHtml.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\Interop.Office.dll
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\Interop.VBIDE.dll
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\Interop.Word.dll
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\bin\Debug\Interop.Office.dll
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\bin\Debug\Interop.VBIDE.dll
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\bin\Debug\Interop.Word.dll
+E:\工作文稿\范例宝典精华版\WordToHtml\WordToHtml\obj\Debug\WordToHtml.Form1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\Word转换成Html\WordToHtml\obj\Debug\Interop.Office.dll
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\Word转换成Html\WordToHtml\obj\Debug\Interop.VBIDE.dll
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\Word转换成Html\WordToHtml\obj\Debug\Interop.Word.dll
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\Word转换成Html\WordToHtml\obj\Debug\WordToHtml.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\Word转换成Html\WordToHtml\obj\Debug\WordToHtml.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\Word转换成Html\WordToHtml\obj\Debug\WordToHtml.pdb
+E:\工作文稿\C#范例手册\07\076\sl\WordToHtml\obj\Debug\Interop.Office.dll
+E:\工作文稿\C#范例手册\07\076\sl\WordToHtml\obj\Debug\Interop.VBIDE.dll
+E:\工作文稿\C#范例手册\07\076\sl\WordToHtml\obj\Debug\Interop.Word.dll
+E:\工作文稿\C#范例手册\07\076\sl\WordToHtml\obj\Debug\WordToHtml.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\07\076\sl\WordToHtml\obj\Debug\WordToHtml.exe
+E:\工作文稿\C#范例手册\07\076\sl\WordToHtml\obj\Debug\WordToHtml.pdb

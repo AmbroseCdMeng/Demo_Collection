@@ -1,0 +1,13 @@
+D:\新建文件夹\stopplaymp3\stopplaymp3\bin\Debug\stopplaymp3.exe
+D:\新建文件夹\stopplaymp3\stopplaymp3\bin\Debug\stopplaymp3.pdb
+D:\新建文件夹\stopplaymp3\stopplaymp3\bin\Debug\Interop.WMPLib.dll
+D:\新建文件夹\stopplaymp3\stopplaymp3\bin\Debug\AxInterop.WMPLib.dll
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\Interop.WMPLib.dll
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\AxInterop.WMPLib.dll
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\stopplaymp3.csproj.ResolveComReference.cache
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\stopplaymp3.Form1.resources
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\stopplaymp3.Properties.Resources.resources
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\stopplaymp3.csproj.GenerateResource.Cache
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\stopplaymp3.exe
+D:\新建文件夹\stopplaymp3\stopplaymp3\obj\Debug\stopplaymp3.pdb

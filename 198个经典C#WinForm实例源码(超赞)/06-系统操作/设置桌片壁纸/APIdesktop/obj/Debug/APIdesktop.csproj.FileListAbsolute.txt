@@ -1,0 +1,22 @@
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\bin\Debug\APIdesktop.exe
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\bin\Debug\APIdesktop.pdb
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\APIdesktop.Form1.resources
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\APIdesktop.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\APIdesktop.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\APIdesktop.exe
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\APIdesktop.pdb
+E:\工作文稿\范例宝典精华版\APIdesktop\APIdesktop\obj\Debug\APIdesktop.Form2.resources
+E:\工作文稿\范例宝典精华版\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.exe
+E:\工作文稿\范例宝典精华版\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\bin\Debug\APIdesktop.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\bin\Debug\APIdesktop.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.Form1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.Form2.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\API设置电脑桌面\APIdesktop\obj\Debug\APIdesktop.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\06\054\sl\APIdesktop\obj\Debug\APIdesktop.exe
+E:\工作文稿\C#范例手册\06\054\sl\APIdesktop\obj\Debug\APIdesktop.pdb

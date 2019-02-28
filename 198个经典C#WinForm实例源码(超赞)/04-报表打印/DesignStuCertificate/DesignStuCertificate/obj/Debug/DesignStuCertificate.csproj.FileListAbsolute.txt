@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\bin\Debug\DesignStuCertificate.exe
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\bin\Debug\DesignStuCertificate.pdb
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\obj\Debug\DesignStuCertificate.Form1.resources
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\obj\Debug\DesignStuCertificate.Properties.Resources.resources
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\obj\Debug\DesignStuCertificate.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\obj\Debug\DesignStuCertificate.exe
+F:\源码\C#范例手册\04\045\sj\01\DesignStuCertificate\DesignStuCertificate\obj\Debug\DesignStuCertificate.pdb

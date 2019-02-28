@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\bin\Debug\RestrictSize.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\bin\Debug\RestrictSize.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\obj\Debug\RestrictSize.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\obj\Debug\RestrictSize.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\obj\Debug\RestrictSize.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\obj\Debug\RestrictSize.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\005\sj\01\RestrictSize\RestrictSize\obj\Debug\RestrictSize.pdb

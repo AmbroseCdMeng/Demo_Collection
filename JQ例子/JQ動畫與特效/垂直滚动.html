@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>垂直滚动</title>
+    <script src="jquery-1.8.2.min.js"></script>
+ <!--   <script src="jquery-1.10.2.min.js"></script>-->
+    <style type="text/css">
+        * {
+            margin:0px; padding:0px;
+        }
+
+        body {
+            font-size:12px;
+        }
+
+        ul {
+            list-style:none;
+        }
+
+        li {
+            height:25px; line-height:25px;
+        }
+
+        h3 {
+            width:162px; height:30px; line-height:30px; text-align:center; background-color:#c33;
+        }
+
+        #book {
+            overflow:hidden;  padding:5px; border:solid 1px red; width:150px;height:125px;
+        }           
+    </style>
+    
+    <script type="text/javascript">
+        function moveBook() {
+            var stopScroll = false;         //初始值為false,不停止滾動
+            var marginTop = 0;
+            setInterval(function () {
+                if (stopScroll) return;
+                $(".express").children("li").
+                first().animate({ "margin-top": marginTop-- }, 0, function () {
+                    var $first = $(this);
+                    if (!$first.is(":animated")) {                   //判断是否在动画状态
+                        if ((-marginTop) > $first.height()) {        //减小的值达到第一个列表的高度时
+                            $first.css({ "margin-top": 0 }).appendTo($(".express"));
+                            marginTop = 0;
+                        }
+                    }
+                });
+            }, 50);
+            $(".express").mouseover(function () {           //鼠标点击停止滚动
+                stopScroll = true;
+            }).mouseout(function () {
+                stopScroll = false;
+            });
+        }
+
+        $(function () {
+            moveBook();         //循环垂直向上滚动
+        });
+
+    </script> 
+     
+</head>
+<body>
+    <h3>近七日畅销榜</h3>
+     <div id="book">
+       <ul class="express">
+           <li>傲慢与偏见</li>
+           <li>玻璃鞋全集</li>
+           <li>澳大利亚：假日之旅</li>
+           <li>浪漫地中海：假日之旅</li>
+           <li>欧陆风情</li>
+           <li>社交疯狂项语</li>
+           <li>111111</li>
+           <li>222222</li>
+           <li>333333：假日之旅</li>
+           <li>444444：假日之旅</li>
+           <li>5555555</li>
+           <li>66666666</li>
+       </ul>  
+
+     </div>
+     
+</body>
+</html>

@@ -1,0 +1,10 @@
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\bin\Debug\像Excel一样复制DataGridView中的单元格区域数据.exe
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\bin\Debug\像Excel一样复制DataGridView中的单元格区域数据.pdb
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.exe
+E:\2008-9月以后的任务\C#范例手册程序\2章\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.pdb
+E:\2008-9月以后的任务\C#范例手册程序\2章\019\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.exe
+E:\2008-9月以后的任务\C#范例手册程序\2章\019\像Excel一样复制DataGridView中的单元格区域数据\像Excel一样复制DataGridView中的单元格区域数据\obj\Debug\像Excel一样复制DataGridView中的单元格区域数据.pdb

@@ -1,0 +1,26 @@
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\obj\Debug\ChToPhoneticize.Form1.resources
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\obj\Debug\ChToPhoneticize.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\obj\Debug\ChToPhoneticize.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\bin\Debug\ChToPhoneticize.exe
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\bin\Debug\ChToPhoneticize.pdb
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\obj\Debug\ChToPhoneticize.exe
+E:\工作文稿\范例宝典精华版\ChToPhoneticize\ChToPhoneticize\obj\Debug\ChToPhoneticize.pdb
+E:\工作文稿\范例宝典精华版\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.exe
+E:\工作文稿\范例宝典精华版\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\bin\Debug\ChToPhoneticize.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\bin\Debug\ChToPhoneticize.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.Form1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\汉字转拼音\ChToPhoneticize\obj\Debug\ChToPhoneticize.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\obj\Debug\ChToPhoneticize.exe
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\obj\Debug\ChToPhoneticize.pdb
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\bin\Debug\ChToPhoneticize.exe
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\bin\Debug\ChToPhoneticize.pdb
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\obj\Debug\ChToPhoneticize.Form1.resources
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\obj\Debug\ChToPhoneticize.Properties.Resources.resources
+E:\工作文稿\C#范例手册\07\072\sl\ChToPhoneticize\obj\Debug\ChToPhoneticize.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\bin\Debug\numberConvert.exe
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\bin\Debug\numberConvert.pdb
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\obj\Debug\numberConvert.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\obj\Debug\numberConvert.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\obj\Debug\numberConvert.exe
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\obj\Debug\numberConvert.pdb
+E:\工作文稿\范例宝典精华版\numberConvert\numberConvert\obj\Debug\numberConvert.Form2.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\obj\Debug\numberConvert.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\obj\Debug\numberConvert.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\bin\Debug\numberConvert.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\bin\Debug\numberConvert.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\obj\Debug\numberConvert.Form1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\obj\Debug\numberConvert.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\金额数字转换\numberConvert\obj\Debug\numberConvert.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\06\060\sl\numberConvert\obj\Debug\numberConvert.exe
+E:\工作文稿\C#范例手册\06\060\sl\numberConvert\obj\Debug\numberConvert.pdb

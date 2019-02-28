@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\bin\Debug\FocusChangeColor.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\bin\Debug\FocusChangeColor.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\obj\Debug\FocusChangeColor.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\obj\Debug\FocusChangeColor.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\obj\Debug\FocusChangeColor.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\obj\Debug\FocusChangeColor.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\008\sj\01\FocusChangeColor\FocusChangeColor\obj\Debug\FocusChangeColor.pdb

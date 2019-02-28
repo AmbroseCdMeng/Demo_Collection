@@ -1,0 +1,35 @@
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\BarCode.Form1.resources
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\BarCode.Properties.Resources.resources
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\BarCode.csproj.GenerateResource.Cache
+E:\范例宝典精华版\BarCode\BarCode\bin\Debug\BarCode.exe
+E:\范例宝典精华版\BarCode\BarCode\bin\Debug\BarCode.pdb
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\BarCode.exe
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\BarCode.pdb
+E:\范例宝典精华版\BarCode\BarCode\bin\Debug\Interop.BARCODELib.dll
+E:\范例宝典精华版\BarCode\BarCode\bin\Debug\AxInterop.BARCODELib.dll
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\Interop.BARCODELib.dll
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\AxInterop.BARCODELib.dll
+E:\范例宝典精华版\BarCode\BarCode\obj\Debug\BarCode.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\BarCode.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\BarCode.exe
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\BarCode.pdb
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\bin\Debug\BarCode.exe
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\bin\Debug\BarCode.pdb
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\BarCode.Form1.resources
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\BarCode.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\BarCode\BarCode\obj\Debug\BarCode.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\BarCode.csproj.ResolveComReference.cache
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\BarCode.exe
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\BarCode.pdb
+F:\源码\C#范例手册\04\BarCode\BarCode\bin\Debug\BarCode.exe
+F:\源码\C#范例手册\04\BarCode\BarCode\bin\Debug\BarCode.pdb
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\BarCode.Form1.resources
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\BarCode.Properties.Resources.resources
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\BarCode.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\Interop.BARCODELib.dll
+F:\源码\C#范例手册\04\BarCode\BarCode\obj\Debug\AxInterop.BARCODELib.dll
+F:\源码\C#范例手册\04\BarCode\BarCode\bin\Debug\Interop.BARCODELib.dll
+F:\源码\C#范例手册\04\BarCode\BarCode\bin\Debug\AxInterop.BARCODELib.dll

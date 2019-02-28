@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\obj\Debug\PRanDataEncrypt.Form1.resources
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\obj\Debug\PRanDataEncrypt.Properties.Resources.resources
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\obj\Debug\PRanDataEncrypt.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\bin\Debug\PRanDataEncrypt.exe
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\bin\Debug\PRanDataEncrypt.pdb
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\obj\Debug\PRanDataEncrypt.exe
+F:\源码\C#范例手册\10\PRanDataEncrypt\PRanDataEncrypt\obj\Debug\PRanDataEncrypt.pdb

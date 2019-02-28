@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\bin\Debug\GetMCodeByCPUAndYP.exe
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\bin\Debug\GetMCodeByCPUAndYP.pdb
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\obj\Debug\GetMCodeByCPUAndYP.Form1.resources
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\obj\Debug\GetMCodeByCPUAndYP.Properties.Resources.resources
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\obj\Debug\GetMCodeByCPUAndYP.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\obj\Debug\GetMCodeByCPUAndYP.exe
+F:\源码\C#范例手册\10\109\sj\02\GetMCodeByCPUAndYP\GetMCodeByCPUAndYP\obj\Debug\GetMCodeByCPUAndYP.pdb

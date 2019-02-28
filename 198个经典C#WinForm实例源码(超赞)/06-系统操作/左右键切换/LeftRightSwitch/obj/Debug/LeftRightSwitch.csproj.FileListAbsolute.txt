@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\bin\Debug\LeftRightSwitch.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\bin\Debug\LeftRightSwitch.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\obj\Debug\LeftRightSwitch.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\obj\Debug\LeftRightSwitch.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\obj\Debug\LeftRightSwitch.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\obj\Debug\LeftRightSwitch.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\048\sj\01\LeftRightSwitch\LeftRightSwitch\obj\Debug\LeftRightSwitch.pdb

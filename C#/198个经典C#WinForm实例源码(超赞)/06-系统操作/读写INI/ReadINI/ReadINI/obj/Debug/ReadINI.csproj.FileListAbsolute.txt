@@ -1,0 +1,8 @@
+D:\新建文件夹\ReadINI\ReadINI\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\ReadINI\ReadINI\obj\Debug\ReadINI.Form1.resources
+D:\新建文件夹\ReadINI\ReadINI\obj\Debug\ReadINI.Properties.Resources.resources
+D:\新建文件夹\ReadINI\ReadINI\obj\Debug\ReadINI.csproj.GenerateResource.Cache
+D:\新建文件夹\ReadINI\ReadINI\bin\Debug\ReadINI.exe
+D:\新建文件夹\ReadINI\ReadINI\bin\Debug\ReadINI.pdb
+D:\新建文件夹\ReadINI\ReadINI\obj\Debug\ReadINI.exe
+D:\新建文件夹\ReadINI\ReadINI\obj\Debug\ReadINI.pdb

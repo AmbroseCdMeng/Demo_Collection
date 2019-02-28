@@ -1,0 +1,24 @@
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\bin\Debug\PictureBatchConversion.exe
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\bin\Debug\PictureBatchConversion.pdb
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\obj\Debug\PictureBatchConversion.Properties.Resources.resources
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\obj\Debug\PictureBatchConversion.csproj.GenerateResource.Cache
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\obj\Debug\PictureBatchConversion.exe
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\obj\Debug\PictureBatchConversion.pdb
+E:\范例宝典精华版\PictureBatchConversion\PictureBatchConversion\obj\Debug\PictureBatchConversion.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\bin\Debug\PictureBatchConversion.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\bin\Debug\PictureBatchConversion.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\bin\Debug\PictureBatchConversion.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\bin\Debug\PictureBatchConversion.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片格式批量转换\PictureBatchConversion\obj\Debug\PictureBatchConversion.csproj.GenerateResource.Cache

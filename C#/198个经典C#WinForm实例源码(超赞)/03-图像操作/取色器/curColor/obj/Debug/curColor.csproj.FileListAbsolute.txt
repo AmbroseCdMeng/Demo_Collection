@@ -1,0 +1,8 @@
+D:\新建文件夹\curColor\curColor\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\curColor\curColor\obj\Debug\curColor.Form1.resources
+D:\新建文件夹\curColor\curColor\obj\Debug\curColor.Properties.Resources.resources
+D:\新建文件夹\curColor\curColor\obj\Debug\curColor.csproj.GenerateResource.Cache
+D:\新建文件夹\curColor\curColor\bin\Debug\curColor.exe
+D:\新建文件夹\curColor\curColor\bin\Debug\curColor.pdb
+D:\新建文件夹\curColor\curColor\obj\Debug\curColor.exe
+D:\新建文件夹\curColor\curColor\obj\Debug\curColor.pdb

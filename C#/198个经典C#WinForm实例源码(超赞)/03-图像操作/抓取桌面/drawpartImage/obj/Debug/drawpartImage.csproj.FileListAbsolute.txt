@@ -1,0 +1,8 @@
+D:\新建文件夹\drawpartImage\drawpartImage\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\drawpartImage\drawpartImage\obj\Debug\drawpartImage.Form1.resources
+D:\新建文件夹\drawpartImage\drawpartImage\obj\Debug\drawpartImage.Properties.Resources.resources
+D:\新建文件夹\drawpartImage\drawpartImage\obj\Debug\drawpartImage.csproj.GenerateResource.Cache
+D:\新建文件夹\drawpartImage\drawpartImage\bin\Debug\drawpartImage.exe
+D:\新建文件夹\drawpartImage\drawpartImage\bin\Debug\drawpartImage.pdb
+D:\新建文件夹\drawpartImage\drawpartImage\obj\Debug\drawpartImage.exe
+D:\新建文件夹\drawpartImage\drawpartImage\obj\Debug\drawpartImage.pdb

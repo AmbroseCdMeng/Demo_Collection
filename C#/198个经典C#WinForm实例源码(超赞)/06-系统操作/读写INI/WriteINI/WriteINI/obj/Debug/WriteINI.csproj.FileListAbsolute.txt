@@ -1,0 +1,8 @@
+D:\新建文件夹\WriteINI\WriteINI\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\WriteINI\WriteINI\obj\Debug\WriteINI.Form1.resources
+D:\新建文件夹\WriteINI\WriteINI\obj\Debug\WriteINI.Properties.Resources.resources
+D:\新建文件夹\WriteINI\WriteINI\obj\Debug\WriteINI.csproj.GenerateResource.Cache
+D:\新建文件夹\WriteINI\WriteINI\bin\Debug\WriteINI.exe
+D:\新建文件夹\WriteINI\WriteINI\bin\Debug\WriteINI.pdb
+D:\新建文件夹\WriteINI\WriteINI\obj\Debug\WriteINI.exe
+D:\新建文件夹\WriteINI\WriteINI\obj\Debug\WriteINI.pdb

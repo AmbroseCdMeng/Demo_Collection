@@ -1,0 +1,13 @@
+D:\新建文件夹\LoadFLASH\LoadFLASH\bin\Debug\LoadFLASH.exe
+D:\新建文件夹\LoadFLASH\LoadFLASH\bin\Debug\LoadFLASH.pdb
+D:\新建文件夹\LoadFLASH\LoadFLASH\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\新建文件夹\LoadFLASH\LoadFLASH\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\LoadFLASH.csproj.ResolveComReference.cache
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\LoadFLASH.Form1.resources
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\LoadFLASH.Properties.Resources.resources
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\LoadFLASH.csproj.GenerateResource.Cache
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\LoadFLASH.exe
+D:\新建文件夹\LoadFLASH\LoadFLASH\obj\Debug\LoadFLASH.pdb

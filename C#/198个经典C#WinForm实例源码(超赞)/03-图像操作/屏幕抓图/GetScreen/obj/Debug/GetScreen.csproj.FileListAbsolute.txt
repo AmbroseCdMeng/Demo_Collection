@@ -1,0 +1,26 @@
+E:\范例宝典精华版\GetScreen\GetScreen\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\GetScreen\GetScreen\obj\Debug\GetScreen.Form1.resources
+E:\范例宝典精华版\GetScreen\GetScreen\obj\Debug\GetScreen.Properties.Resources.resources
+E:\范例宝典精华版\GetScreen\GetScreen\obj\Debug\GetScreen.csproj.GenerateResource.Cache
+E:\范例宝典精华版\GetScreen\GetScreen\bin\Debug\GetScreen.exe
+E:\范例宝典精华版\GetScreen\GetScreen\bin\Debug\GetScreen.pdb
+E:\范例宝典精华版\GetScreen\GetScreen\obj\Debug\GetScreen.exe
+E:\范例宝典精华版\GetScreen\GetScreen\obj\Debug\GetScreen.pdb
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\obj\Debug\GetScreen.exe
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\obj\Debug\GetScreen.pdb
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\bin\Debug\GetScreen.exe
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\bin\Debug\GetScreen.pdb
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\obj\Debug\GetScreen.Form1.resources
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\obj\Debug\GetScreen.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\屏幕抓图\GetScreen\obj\Debug\GetScreen.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\bin\Debug\GetScreen.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\bin\Debug\GetScreen.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\屏幕抓图\GetScreen\obj\Debug\GetScreen.pdb

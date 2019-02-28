@@ -1,0 +1,8 @@
+D:\新建文件夹\optionXML\optionXML\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\optionXML\optionXML\obj\Debug\optionXML.Form1.resources
+D:\新建文件夹\optionXML\optionXML\obj\Debug\optionXML.Properties.Resources.resources
+D:\新建文件夹\optionXML\optionXML\obj\Debug\optionXML.csproj.GenerateResource.Cache
+D:\新建文件夹\optionXML\optionXML\bin\Debug\optionXML.exe
+D:\新建文件夹\optionXML\optionXML\bin\Debug\optionXML.pdb
+D:\新建文件夹\optionXML\optionXML\obj\Debug\optionXML.exe
+D:\新建文件夹\optionXML\optionXML\obj\Debug\optionXML.pdb

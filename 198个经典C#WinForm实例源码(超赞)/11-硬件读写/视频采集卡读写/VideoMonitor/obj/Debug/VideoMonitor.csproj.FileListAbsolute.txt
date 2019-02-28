@@ -1,0 +1,60 @@
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmAutoVideo.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmLogin.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmMain.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmPlay.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmRegister.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmSetMonitor.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmWelcome.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\bin\Debug\DataBase\db_VideoMonitor.mdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\bin\Debug\VideoMonitor.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\bin\Debug\VideoMonitor.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\bin\Debug\DataBase\db_VideoMonitor.mdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\bin\Debug\VideoMonitor.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\bin\Debug\VideoMonitor.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmAutoVideo.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmLogin.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmMain.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmPlay.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmRegister.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmSetMonitor.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.frmWelcome.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\多路视频监控\VideoMonitor\VideoMonitor\obj\Debug\VideoMonitor.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.exe
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.pdb
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\bin\Debug\DataBase\db_VideoMonitor.mdb
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\bin\Debug\VideoMonitor.exe
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\bin\Debug\VideoMonitor.pdb
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmAutoVideo.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmLogin.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmMain.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmPlay.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmRegister.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmSetMonitor.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.frmWelcome.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.Properties.Resources.resources
+E:\工作文稿\C#范例手册\11\116\sl\VideoMonitor\obj\Debug\VideoMonitor.csproj.GenerateResource.Cache

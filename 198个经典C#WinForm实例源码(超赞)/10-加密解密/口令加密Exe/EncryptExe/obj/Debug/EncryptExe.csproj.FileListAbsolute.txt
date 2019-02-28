@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\obj\Debug\EncryptExe.Form1.resources
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\obj\Debug\EncryptExe.Properties.Resources.resources
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\obj\Debug\EncryptExe.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\bin\Debug\EncryptExe.exe
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\bin\Debug\EncryptExe.pdb
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\obj\Debug\EncryptExe.exe
+F:\源码\C#范例手册\10\EncryptExe\EncryptExe\obj\Debug\EncryptExe.pdb

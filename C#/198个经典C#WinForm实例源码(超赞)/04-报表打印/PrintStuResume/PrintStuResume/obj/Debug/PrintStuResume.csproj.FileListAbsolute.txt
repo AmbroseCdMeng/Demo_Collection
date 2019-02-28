@@ -1,0 +1,9 @@
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\bin\Debug\PrintStuResume.exe
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\bin\Debug\PrintStuResume.pdb
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\PrintStuResume.frmMain.resources
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\PrintStuResume.Properties.Resources.resources
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\PrintStuResume.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\PrintStuResume.exe
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\PrintStuResume.pdb
+F:\源码\C#范例手册\04\PrintStuResume\PrintStuResume\obj\Debug\PrintStuResume.frmPrint.resources

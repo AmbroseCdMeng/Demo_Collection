@@ -1,0 +1,8 @@
+D:\新建文件夹\DrawFont\DrawFont\bin\Debug\DrawFont.exe
+D:\新建文件夹\DrawFont\DrawFont\bin\Debug\DrawFont.pdb
+D:\新建文件夹\DrawFont\DrawFont\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\DrawFont\DrawFont\obj\Debug\DrawFont.Form1.resources
+D:\新建文件夹\DrawFont\DrawFont\obj\Debug\DrawFont.Properties.Resources.resources
+D:\新建文件夹\DrawFont\DrawFont\obj\Debug\DrawFont.csproj.GenerateResource.Cache
+D:\新建文件夹\DrawFont\DrawFont\obj\Debug\DrawFont.exe
+D:\新建文件夹\DrawFont\DrawFont\obj\Debug\DrawFont.pdb

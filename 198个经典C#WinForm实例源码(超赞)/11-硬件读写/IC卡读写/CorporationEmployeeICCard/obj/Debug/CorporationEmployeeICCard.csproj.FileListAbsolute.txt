@@ -1,0 +1,34 @@
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\bin\Debug\CorporationEmployeeICCard.exe
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\bin\Debug\CorporationEmployeeICCard.pdb
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.Form1.resources
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.exe
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.pdb
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.Form2.resources
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\Interop.Excel.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\Interop.Office.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\Interop.VBIDE.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\Interop.Word.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\bin\Debug\Interop.Excel.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\bin\Debug\Interop.Office.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\bin\Debug\Interop.VBIDE.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\bin\Debug\Interop.Word.dll
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.Form3.resources
+E:\工作文稿\范例宝典精华版\CorporationEmployeeICCard\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.AboutBox1.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\Interop.Excel.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\Interop.Office.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\Interop.VBIDE.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\Interop.Word.dll
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\企业员工IC卡开发\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.pdb
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\Interop.Excel.dll
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\Interop.Office.dll
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\Interop.VBIDE.dll
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\Interop.Word.dll
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.exe
+E:\工作文稿\C#范例手册\11\115\sl\CorporationEmployeeICCard\obj\Debug\CorporationEmployeeICCard.pdb

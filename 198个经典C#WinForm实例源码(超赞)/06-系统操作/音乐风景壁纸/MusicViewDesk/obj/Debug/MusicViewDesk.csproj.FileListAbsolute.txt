@@ -1,0 +1,30 @@
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\bin\Debug\MusicViewDesk.exe
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\bin\Debug\MusicViewDesk.pdb
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.Form1.resources
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.exe
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.pdb
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.Form2.resources
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\MusicViewDesk\MusicViewDesk\obj\Debug\MusicViewDesk.AboutBox1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\bin\Debug\MusicViewDesk.exe
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\bin\Debug\MusicViewDesk.pdb
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\bin\Debug\Interop.WMPLib.dll
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\bin\Debug\AxInterop.WMPLib.dll
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.AboutBox1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.Form1.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.Form2.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第6章 操作系统相关技术\音乐背景壁纸\MusicViewDesk\obj\Debug\MusicViewDesk.csproj.GenerateResource.Cache

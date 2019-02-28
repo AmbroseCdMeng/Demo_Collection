@@ -1,0 +1,26 @@
+E:\范例宝典精华版\WebSnap\WebSnap\bin\Debug\WebSnap.exe
+E:\范例宝典精华版\WebSnap\WebSnap\bin\Debug\WebSnap.pdb
+E:\范例宝典精华版\WebSnap\WebSnap\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\WebSnap\WebSnap\obj\Debug\WebSnap.Form1.resources
+E:\范例宝典精华版\WebSnap\WebSnap\obj\Debug\WebSnap.Properties.Resources.resources
+E:\范例宝典精华版\WebSnap\WebSnap\obj\Debug\WebSnap.csproj.GenerateResource.Cache
+E:\范例宝典精华版\WebSnap\WebSnap\obj\Debug\WebSnap.exe
+E:\范例宝典精华版\WebSnap\WebSnap\obj\Debug\WebSnap.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\bin\Debug\WebSnap.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\bin\Debug\WebSnap.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\抓取网页整页面\WebSnap\obj\Debug\WebSnap.pdb
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\obj\Debug\WebSnap.exe
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\obj\Debug\WebSnap.pdb
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\bin\Debug\WebSnap.exe
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\obj\Debug\WebSnap.Form1.resources
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\obj\Debug\WebSnap.Properties.Resources.resources
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\obj\Debug\WebSnap.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\03\031\sl\WebSnap\bin\Debug\WebSnap.pdb

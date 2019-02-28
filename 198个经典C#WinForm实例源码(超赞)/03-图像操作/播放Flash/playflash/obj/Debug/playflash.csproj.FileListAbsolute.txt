@@ -1,0 +1,42 @@
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.AboutBox1.resources
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.Form1.resources
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\playflash\playflash\bin\Debug\playflash.exe
+E:\工作文稿\范例宝典精华版\playflash\playflash\bin\Debug\playflash.pdb
+E:\工作文稿\范例宝典精华版\playflash\playflash\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\playflash\playflash\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.exe
+E:\工作文稿\范例宝典精华版\playflash\playflash\obj\Debug\playflash.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.csproj.ResolveComReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\playflash.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\playflash.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.AboutBox1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.AboutBox1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\playflash.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\playflash.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\playflash.csproj.ResolveComReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\FLASH播放器\playflash\obj\Debug\AxInterop.ShockwaveFlashObjects.dll

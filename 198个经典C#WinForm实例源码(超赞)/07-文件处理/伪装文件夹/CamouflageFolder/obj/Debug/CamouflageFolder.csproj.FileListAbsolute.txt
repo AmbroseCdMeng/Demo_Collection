@@ -1,0 +1,16 @@
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.pdb
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\bin\Debug\CamouflageFolder.exe
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\bin\Debug\CamouflageFolder.pdb
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.Form1.resources
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\CamouflageFolder\CamouflageFolder\obj\Debug\CamouflageFolder.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\obj\Debug\CamouflageFolder.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\obj\Debug\CamouflageFolder.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\bin\Debug\CamouflageFolder.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\bin\Debug\CamouflageFolder.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\obj\Debug\CamouflageFolder.Form1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\obj\Debug\CamouflageFolder.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\伪装文件夹\CamouflageFolder\obj\Debug\CamouflageFolder.csproj.GenerateResource.Cache

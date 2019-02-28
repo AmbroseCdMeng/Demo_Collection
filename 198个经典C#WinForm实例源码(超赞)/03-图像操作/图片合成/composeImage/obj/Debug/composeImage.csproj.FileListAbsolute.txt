@@ -1,0 +1,8 @@
+D:\新建文件夹\composeImage\composeImage\bin\Debug\composeImage.exe
+D:\新建文件夹\composeImage\composeImage\bin\Debug\composeImage.pdb
+D:\新建文件夹\composeImage\composeImage\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\composeImage\composeImage\obj\Debug\composeImage.Form1.resources
+D:\新建文件夹\composeImage\composeImage\obj\Debug\composeImage.Properties.Resources.resources
+D:\新建文件夹\composeImage\composeImage\obj\Debug\composeImage.csproj.GenerateResource.Cache
+D:\新建文件夹\composeImage\composeImage\obj\Debug\composeImage.exe
+D:\新建文件夹\composeImage\composeImage\obj\Debug\composeImage.pdb

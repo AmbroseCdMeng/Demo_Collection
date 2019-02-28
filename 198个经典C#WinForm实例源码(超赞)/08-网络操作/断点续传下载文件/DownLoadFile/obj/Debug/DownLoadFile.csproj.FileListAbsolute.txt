@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\DownLoadFile\DownLoadFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.Form1.resources
+C:\Documents and Settings\Administrator\桌面\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.Form1.resources
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.Properties.Resources.resources
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.exe
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\bin\Debug\DownLoadFile.pdb
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.exe
+F:\源码\C#范例手册\08\DownLoadFile\DownLoadFile\obj\Debug\DownLoadFile.pdb

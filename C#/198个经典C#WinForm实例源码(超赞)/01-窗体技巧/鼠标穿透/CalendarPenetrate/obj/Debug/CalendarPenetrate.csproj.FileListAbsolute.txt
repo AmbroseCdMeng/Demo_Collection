@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\bin\Debug\CalendarPenetrate.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\bin\Debug\CalendarPenetrate.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\obj\Debug\CalendarPenetrate.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\obj\Debug\CalendarPenetrate.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\obj\Debug\CalendarPenetrate.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\obj\Debug\CalendarPenetrate.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\01\003\sj\CalendarPenetrate\CalendarPenetrate\obj\Debug\CalendarPenetrate.pdb

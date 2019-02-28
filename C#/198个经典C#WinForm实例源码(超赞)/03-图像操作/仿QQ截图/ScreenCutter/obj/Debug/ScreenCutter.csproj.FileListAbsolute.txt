@@ -1,0 +1,27 @@
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Form1.resources
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\范例宝典精华版\ScreenCutter\ScreenCutter\obj\Debug\ScreenCutter.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\bin\Debug\ScreenCutter.pdb
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form1.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Form2.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\仿QQ截图功能\ScreenCutter\obj\Debug\ScreenCutter.csproj.GenerateResource.Cache

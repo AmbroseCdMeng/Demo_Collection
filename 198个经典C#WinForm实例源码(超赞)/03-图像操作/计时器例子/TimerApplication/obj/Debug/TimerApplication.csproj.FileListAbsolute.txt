@@ -1,0 +1,8 @@
+D:\新建文件夹\TimerApplication\TimerApplication\bin\Debug\TimerApplication.exe
+D:\新建文件夹\TimerApplication\TimerApplication\bin\Debug\TimerApplication.pdb
+D:\新建文件夹\TimerApplication\TimerApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\TimerApplication\TimerApplication\obj\Debug\TimerApplication.Form1.resources
+D:\新建文件夹\TimerApplication\TimerApplication\obj\Debug\TimerApplication.Properties.Resources.resources
+D:\新建文件夹\TimerApplication\TimerApplication\obj\Debug\TimerApplication.csproj.GenerateResource.Cache
+D:\新建文件夹\TimerApplication\TimerApplication\obj\Debug\TimerApplication.exe
+D:\新建文件夹\TimerApplication\TimerApplication\obj\Debug\TimerApplication.pdb

@@ -1,0 +1,8 @@
+D:\新建文件夹\openUrl\openUrl\bin\Debug\openUrl.exe
+D:\新建文件夹\openUrl\openUrl\bin\Debug\openUrl.pdb
+D:\新建文件夹\openUrl\openUrl\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\openUrl\openUrl\obj\Debug\openUrl.Form1.resources
+D:\新建文件夹\openUrl\openUrl\obj\Debug\openUrl.Properties.Resources.resources
+D:\新建文件夹\openUrl\openUrl\obj\Debug\openUrl.csproj.GenerateResource.Cache
+D:\新建文件夹\openUrl\openUrl\obj\Debug\openUrl.exe
+D:\新建文件夹\openUrl\openUrl\obj\Debug\openUrl.pdb

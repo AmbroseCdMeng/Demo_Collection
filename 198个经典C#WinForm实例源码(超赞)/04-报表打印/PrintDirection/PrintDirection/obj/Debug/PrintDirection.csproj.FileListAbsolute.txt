@@ -1,0 +1,10 @@
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\obj\Debug\PrintDirection.Form1.resources
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\obj\Debug\PrintDirection.Properties.Resources.resources
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\obj\Debug\PrintDirection.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\bin\Debug\PrintDirection.exe
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\bin\Debug\PrintDirection.pdb
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\obj\Debug\PrintDirection.exe
+F:\源码\C#范例手册\04\PrintDirection\PrintDirection\obj\Debug\PrintDirection.pdb
+F:\源码\C#范例手册\04\037\sl\PrintDirection\PrintDirection\obj\Debug\PrintDirection.exe
+F:\源码\C#范例手册\04\037\sl\PrintDirection\PrintDirection\obj\Debug\PrintDirection.pdb

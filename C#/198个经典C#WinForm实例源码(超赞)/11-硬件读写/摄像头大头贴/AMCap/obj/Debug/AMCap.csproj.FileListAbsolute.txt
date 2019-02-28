@@ -1,0 +1,26 @@
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\obj\Debug\AMCap.Form1.resources
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\obj\Debug\AMCap.Properties.Resources.resources
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\obj\Debug\AMCap.csproj.GenerateResource.Cache
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\bin\Debug\AMCap.exe
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\bin\Debug\AMCap.pdb
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\obj\Debug\AMCap.exe
+E:\Documents and Settings\Administrator\桌面\AMCap\AMCap\obj\Debug\AMCap.pdb
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.exe
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.pdb
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\bin\Debug\AMCap.exe
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\bin\Debug\AMCap.pdb
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.Form1.resources
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.pdb
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.Form1.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\obj\Debug\AMCap.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\bin\Debug\AMCap.exe
+E:\工作文稿\C#范例手册\第11章 硬件开发技术\摄像头制作大头贴\AMCap\AMCap\bin\Debug\AMCap.pdb
+E:\工作文稿\C#范例手册\11\113\sl\AMCap\obj\Debug\AMCap.exe
+E:\工作文稿\C#范例手册\11\113\sl\AMCap\obj\Debug\AMCap.pdb

@@ -1,0 +1,8 @@
+D:\新建文件夹\drawcur\drawcur\bin\Debug\drawcur.exe
+D:\新建文件夹\drawcur\drawcur\bin\Debug\drawcur.pdb
+D:\新建文件夹\drawcur\drawcur\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\drawcur\drawcur\obj\Debug\drawcur.Form1.resources
+D:\新建文件夹\drawcur\drawcur\obj\Debug\drawcur.Properties.Resources.resources
+D:\新建文件夹\drawcur\drawcur\obj\Debug\drawcur.csproj.GenerateResource.Cache
+D:\新建文件夹\drawcur\drawcur\obj\Debug\drawcur.exe
+D:\新建文件夹\drawcur\drawcur\obj\Debug\drawcur.pdb

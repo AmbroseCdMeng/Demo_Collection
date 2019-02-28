@@ -1,0 +1,12 @@
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\obj\Debug\FileComminuteUnite.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\obj\Debug\FileComminuteUnite.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\bin\Debug\FileComminuteUnite.exe
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\bin\Debug\FileComminuteUnite.pdb
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\obj\Debug\FileComminuteUnite.exe
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\obj\Debug\FileComminuteUnite.pdb
+E:\工作文稿\范例宝典精华版\FileComminuteUnite\FileComminuteUnite\obj\Debug\FileComminuteUnite.frmSplit.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\分割与合并文件\FileComminuteUnite\obj\Debug\FileComminuteUnite.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\分割与合并文件\FileComminuteUnite\obj\Debug\FileComminuteUnite.pdb
+E:\工作文稿\C#范例手册\07\069\sl\FileComminuteUnite\obj\Debug\FileComminuteUnite.exe
+E:\工作文稿\C#范例手册\07\069\sl\FileComminuteUnite\obj\Debug\FileComminuteUnite.pdb

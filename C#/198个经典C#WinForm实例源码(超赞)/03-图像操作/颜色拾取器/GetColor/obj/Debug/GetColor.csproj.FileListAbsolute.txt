@@ -1,0 +1,31 @@
+E:\范例宝典精华版\GetColor\GetColor\bin\Debug\GetColor.exe
+E:\范例宝典精华版\GetColor\GetColor\bin\Debug\GetColor.pdb
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\GetColor.FrmGetColor.resources
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\GetColor.Properties.Resources.resources
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\GetColor.csproj.GenerateResource.Cache
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\GetColor.exe
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\GetColor.pdb
+E:\范例宝典精华版\GetColor\GetColor\obj\Debug\GetColor.AboutBox1.resources
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\GetColor.exe
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\GetColor.pdb
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\bin\Debug\GetColor.exe
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\bin\Debug\GetColor.pdb
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\GetColor.AboutBox1.resources
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\GetColor.FrmGetColor.resources
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\GetColor.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\颜色拾取器\GetColor\obj\Debug\GetColor.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\bin\Debug\GetColor.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\bin\Debug\GetColor.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.AboutBox1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.FrmGetColor.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\颜色拾取器\GetColor\obj\Debug\GetColor.pdb
+E:\工作文稿\C#范例手册\03\026\sl\GetColor\obj\Debug\GetColor.exe
+E:\工作文稿\C#范例手册\03\026\sl\GetColor\obj\Debug\GetColor.pdb

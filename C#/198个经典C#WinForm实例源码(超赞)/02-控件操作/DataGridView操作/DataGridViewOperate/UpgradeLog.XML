@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataGridViewOperate">
+</Property><Property Name="Solution File" Value="F:\F1664101\其它\學習資料\198个经典C#WinForm实例源码(超赞)\02-控件操作\DataGridView操作\DataGridViewOperate\DataGridViewOperate.sln">
+</Property><Property Name="Date" Value="2018年1月5日">
+</Property><Property Name="Time" Value="上午 08:23">
+</Property></Properties><Event ErrorLevel="0" Project="DataGridViewOperate" Source="DataGridViewOperate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataGridViewOperate" Source="DataGridViewOperate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataGridViewOperate.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataGridViewOperate.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataGridViewOperate" Source="DataGridViewOperate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

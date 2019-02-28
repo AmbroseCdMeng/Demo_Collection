@@ -1,0 +1,8 @@
+D:\新建文件夹\ImgType\ImgType\bin\Debug\ImgType.exe
+D:\新建文件夹\ImgType\ImgType\bin\Debug\ImgType.pdb
+D:\新建文件夹\ImgType\ImgType\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\ImgType\ImgType\obj\Debug\ImgType.Form1.resources
+D:\新建文件夹\ImgType\ImgType\obj\Debug\ImgType.Properties.Resources.resources
+D:\新建文件夹\ImgType\ImgType\obj\Debug\ImgType.csproj.GenerateResource.Cache
+D:\新建文件夹\ImgType\ImgType\obj\Debug\ImgType.exe
+D:\新建文件夹\ImgType\ImgType\obj\Debug\ImgType.pdb

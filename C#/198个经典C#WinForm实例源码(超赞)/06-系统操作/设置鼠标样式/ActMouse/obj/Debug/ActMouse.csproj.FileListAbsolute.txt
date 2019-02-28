@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\bin\Debug\ActMouse.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\bin\Debug\ActMouse.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\obj\Debug\ActMouse.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\obj\Debug\ActMouse.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\obj\Debug\ActMouse.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\obj\Debug\ActMouse.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\05\047\sj\01\ActMouse\ActMouse\obj\Debug\ActMouse.pdb

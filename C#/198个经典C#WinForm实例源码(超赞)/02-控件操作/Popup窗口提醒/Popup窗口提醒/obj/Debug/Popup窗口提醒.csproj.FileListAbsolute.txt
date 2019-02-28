@@ -1,0 +1,11 @@
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\bin\Debug\Popup窗口提醒.exe
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\bin\Debug\Popup窗口提醒.pdb
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.exe
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.pdb
+E:\2008-9月以后的任务\C#范例手册程序\2章\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup.Controls.Frm_Popup.resources
+E:\2008-9月以后的任务\C#范例手册程序\2章\017\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.exe
+E:\2008-9月以后的任务\C#范例手册程序\2章\017\Popup窗口提醒\Popup窗口提醒\obj\Debug\Popup窗口提醒.pdb

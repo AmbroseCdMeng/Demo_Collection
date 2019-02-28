@@ -1,0 +1,8 @@
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\bin\Debug\PictureBoxShowImage.exe
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\bin\Debug\PictureBoxShowImage.pdb
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\obj\Debug\PictureBoxShowImage.Form1.resources
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\obj\Debug\PictureBoxShowImage.Properties.Resources.resources
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\obj\Debug\PictureBoxShowImage.csproj.GenerateResource.Cache
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\obj\Debug\PictureBoxShowImage.exe
+D:\新建文件夹\PictureBoxShowImage\PictureBoxShowImage\obj\Debug\PictureBoxShowImage.pdb

@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\bin\Debug\LinqOperObjects.exe
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\bin\Debug\LinqOperObjects.pdb
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\obj\Debug\LinqOperObjects.Form1.resources
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\obj\Debug\LinqOperObjects.Properties.Resources.resources
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\obj\Debug\LinqOperObjects.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\obj\Debug\LinqOperObjects.exe
+F:\源码\C#范例手册\09\LinqOperObjects\LinqOperObjects\obj\Debug\LinqOperObjects.pdb

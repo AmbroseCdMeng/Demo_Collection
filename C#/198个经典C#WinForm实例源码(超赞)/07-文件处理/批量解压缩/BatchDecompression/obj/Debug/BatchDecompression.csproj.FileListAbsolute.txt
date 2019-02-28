@@ -1,0 +1,25 @@
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\bin\Debug\BatchDecompression.exe
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\bin\Debug\BatchDecompression.pdb
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\obj\Debug\BatchDecompression.Form1.resources
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\obj\Debug\BatchDecompression.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\obj\Debug\BatchDecompression.csproj.GenerateResource.Cache
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\obj\Debug\BatchDecompression.exe
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\obj\Debug\BatchDecompression.pdb
+E:\工作文稿\范例宝典精华版\BatchDecompression\BatchDecompression\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\obj\Debug\BatchDecompression.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\obj\Debug\BatchDecompression.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\bin\Debug\BatchDecompression.exe
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\bin\Debug\BatchDecompression.pdb
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\obj\Debug\BatchDecompression.Form1.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\obj\Debug\BatchDecompression.Properties.Resources.resources
+E:\工作文稿\C#范例手册\第7章 文件及数据流应用\文件批量解压缩\BatchDecompression\obj\Debug\BatchDecompression.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\obj\Debug\BatchDecompression.exe
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\obj\Debug\BatchDecompression.pdb
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\bin\Debug\BatchDecompression.exe
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\bin\Debug\BatchDecompression.pdb
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\obj\Debug\BatchDecompression.Form1.resources
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\obj\Debug\BatchDecompression.Properties.Resources.resources
+E:\工作文稿\C#范例手册\07\078\sl\BatchDecompression\obj\Debug\BatchDecompression.csproj.GenerateResource.Cache

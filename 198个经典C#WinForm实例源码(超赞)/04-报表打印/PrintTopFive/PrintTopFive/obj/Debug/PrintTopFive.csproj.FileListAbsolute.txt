@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\bin\Debug\PrintTopFive.exe
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\bin\Debug\PrintTopFive.pdb
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\obj\Debug\PrintTopFive.Form1.resources
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\obj\Debug\PrintTopFive.Properties.Resources.resources
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\obj\Debug\PrintTopFive.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\obj\Debug\PrintTopFive.exe
+F:\源码\C#范例手册\04\038\sj\02\PrintTopFive\PrintTopFive\obj\Debug\PrintTopFive.pdb

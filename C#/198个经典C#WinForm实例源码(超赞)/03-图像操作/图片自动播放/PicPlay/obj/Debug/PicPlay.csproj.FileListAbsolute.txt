@@ -1,0 +1,20 @@
+E:\范例宝典精华版\PicPlay\PicPlay\bin\Debug\PicPlay.exe
+E:\范例宝典精华版\PicPlay\PicPlay\bin\Debug\PicPlay.pdb
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\ResolveAssemblyReference.cache
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\PicPlay.Form1.resources
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\PicPlay.Properties.Resources.resources
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\PicPlay.csproj.GenerateResource.Cache
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\PicPlay.exe
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\PicPlay.pdb
+E:\范例宝典精华版\PicPlay\PicPlay\obj\Debug\PicPlay.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\bin\Debug\PicPlay.exe
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\bin\Debug\PicPlay.pdb
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\ResolveAssemblyReference.cache
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.Form1.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.Form2.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.Properties.Resources.resources
+E:\工作文稿\范例宝典精华版\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.csproj.GenerateResource.Cache
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.exe
+E:\工作文稿\C#范例手册\第3章 图形图像及多媒体应用\图片自动播放\PicPlay\obj\Debug\PicPlay.pdb

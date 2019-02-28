@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\bin\Debug\DesignReceipt.exe
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\bin\Debug\DesignReceipt.pdb
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\obj\Debug\DesignReceipt.Form1.resources
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\obj\Debug\DesignReceipt.Properties.Resources.resources
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\obj\Debug\DesignReceipt.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\obj\Debug\DesignReceipt.exe
+F:\源码\C#范例手册\04\046\sj\01\DesignReceipt\DesignReceipt\obj\Debug\DesignReceipt.pdb

@@ -1,0 +1,8 @@
+F:\Practise\004\SBCorDBC\SBCorDBC\bin\Debug\SBCorDBC.exe
+F:\Practise\004\SBCorDBC\SBCorDBC\bin\Debug\SBCorDBC.pdb
+F:\Practise\004\SBCorDBC\SBCorDBC\obj\Debug\ResolveAssemblyReference.cache
+F:\Practise\004\SBCorDBC\SBCorDBC\obj\Debug\SBCorDBC.Form1.resources
+F:\Practise\004\SBCorDBC\SBCorDBC\obj\Debug\SBCorDBC.Properties.Resources.resources
+F:\Practise\004\SBCorDBC\SBCorDBC\obj\Debug\SBCorDBC.csproj.GenerateResource.Cache
+F:\Practise\004\SBCorDBC\SBCorDBC\obj\Debug\SBCorDBC.exe
+F:\Practise\004\SBCorDBC\SBCorDBC\obj\Debug\SBCorDBC.pdb

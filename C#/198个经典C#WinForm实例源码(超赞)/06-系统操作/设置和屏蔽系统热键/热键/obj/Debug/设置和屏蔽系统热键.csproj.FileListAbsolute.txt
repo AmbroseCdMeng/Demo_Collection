@@ -1,0 +1,8 @@
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\obj\Debug\设置和屏蔽系统热键.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\obj\Debug\热键.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\obj\Debug\设置和屏蔽系统热键.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\obj\Debug\热键.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\obj\Debug\热键.pdb
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\bin\Debug\热键.exe
+E:\2008-9月以后的任务\C#范例手册程序\5章\设置和屏蔽系统热键\热键\bin\Debug\热键.pdb

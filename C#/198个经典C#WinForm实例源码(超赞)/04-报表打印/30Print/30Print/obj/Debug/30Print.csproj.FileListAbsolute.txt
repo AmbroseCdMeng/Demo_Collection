@@ -1,0 +1,8 @@
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\bin\Debug\30Print.exe
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\bin\Debug\30Print.pdb
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\obj\Debug\_30Print.Form1.resources
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\obj\Debug\_30Print.Properties.Resources.resources
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\obj\Debug\30Print.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\obj\Debug\30Print.exe
+F:\源码\C#范例手册\04\039\sj\02\30Print\30Print\obj\Debug\30Print.pdb

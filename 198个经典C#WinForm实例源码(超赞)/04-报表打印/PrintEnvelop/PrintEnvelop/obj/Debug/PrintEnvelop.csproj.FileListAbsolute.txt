@@ -1,0 +1,16 @@
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\bin\Debug\PrintEnvelop.exe
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\bin\Debug\PrintEnvelop.pdb
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.Form1.resources
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.Properties.Resources.resources
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.exe
+F:\源码\C#范例手册\04\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.pdb
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.exe
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.pdb
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\bin\Debug\PrintEnvelop.exe
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\bin\Debug\PrintEnvelop.pdb
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.Form1.resources
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.Properties.Resources.resources
+F:\源码\C#范例手册\04\045\sl\PrintEnvelop\PrintEnvelop\obj\Debug\PrintEnvelop.csproj.GenerateResource.Cache

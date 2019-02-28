@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <script src="jquery.js" type="text/javascript"></script>
+
+    <style>
+        body {
+            font-size: 12px;
+        }
+
+        #accordion {
+            width: 600px;
+            margin: 0 auto;
+        }
+
+        h3 {
+            padding: 5px;
+            border: 1px solid #ccc;
+            background-color: #eee;
+            cursor: pointer;
+        }
+
+        #accordion div {
+            padding: 5px;
+            border: 1px solid #ccc;
+        }
+    </style>
+
+    <script>
+        $(document).ready(function () {
+            $('#accordion').accordion();
+        });
+        </script>
+       
+</head>
+
+<body>
+    <div id="accordion">
+        <h3>Section 1</h3>
+        <div>
+            <p>11111111111111111111111</p>
+        </div>
+
+        <h3>Section 2</h3>
+        <div>
+            <p>22222222222222222222222</p>
+        </div>
+
+        <h3>Section 3</h3>
+        <div>
+            <p>333333333333333333</p>
+            <ul>
+                <li>one</li>
+                <li>two</li>
+                <li>three</li>
+            </ul>
+        </div>
+
+        <h3>Section 4</h3>
+        <div>
+            <p>444444444444444444</p>
+        </div>
+
+    </div>
+</body>
+</html>

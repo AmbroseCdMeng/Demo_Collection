@@ -1,0 +1,8 @@
+F:\Practise\005\NullificationMouse\NullificationMouse\bin\Debug\NullificationMouse.exe
+F:\Practise\005\NullificationMouse\NullificationMouse\bin\Debug\NullificationMouse.pdb
+F:\Practise\005\NullificationMouse\NullificationMouse\obj\Debug\ResolveAssemblyReference.cache
+F:\Practise\005\NullificationMouse\NullificationMouse\obj\Debug\NullificationMouse.Form1.resources
+F:\Practise\005\NullificationMouse\NullificationMouse\obj\Debug\NullificationMouse.Properties.Resources.resources
+F:\Practise\005\NullificationMouse\NullificationMouse\obj\Debug\NullificationMouse.csproj.GenerateResource.Cache
+F:\Practise\005\NullificationMouse\NullificationMouse\obj\Debug\NullificationMouse.exe
+F:\Practise\005\NullificationMouse\NullificationMouse\obj\Debug\NullificationMouse.pdb

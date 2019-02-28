@@ -1,0 +1,9 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\RestrictDigit.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\RestrictDigit.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\bin\Debug\RestrictDigit.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\bin\Debug\RestrictDigit.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\RestrictDigit.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\RestrictDigit.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\RestrictDigit.R_TextBox.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\011\sj\02\RestrictDigit\RestrictDigit\obj\Debug\RestrictDigit.Form1.resources

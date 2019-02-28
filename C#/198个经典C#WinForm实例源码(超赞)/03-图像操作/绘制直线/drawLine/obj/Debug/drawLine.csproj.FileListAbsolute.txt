@@ -1,0 +1,8 @@
+D:\新建文件夹\drawLine\drawLine\bin\Debug\drawLine.exe
+D:\新建文件夹\drawLine\drawLine\bin\Debug\drawLine.pdb
+D:\新建文件夹\drawLine\drawLine\obj\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\drawLine\drawLine\obj\Debug\drawLine.Form1.resources
+D:\新建文件夹\drawLine\drawLine\obj\Debug\drawLine.Properties.Resources.resources
+D:\新建文件夹\drawLine\drawLine\obj\Debug\drawLine.csproj.GenerateResource.Cache
+D:\新建文件夹\drawLine\drawLine\obj\Debug\drawLine.exe
+D:\新建文件夹\drawLine\drawLine\obj\Debug\drawLine.pdb

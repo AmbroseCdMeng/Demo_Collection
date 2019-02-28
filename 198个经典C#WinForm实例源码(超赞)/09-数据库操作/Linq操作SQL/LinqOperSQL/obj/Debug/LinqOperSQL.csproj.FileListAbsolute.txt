@@ -1,0 +1,26 @@
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.exe
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.pdb
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.Form1.resources
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.exe
+C:\Documents and Settings\Administrator\桌面\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.pdb
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.exe
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.pdb
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.exe.config
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.exe
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.pdb
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.Form1.resources
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.Properties.Resources.resources
+F:\源码\C#范例宝典精华版\05\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.csproj.GenerateResource.Cache
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.exe.config
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.exe
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.pdb
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.exe
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\bin\Debug\LinqOperSQL.pdb
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\obj\Debug\ResolveAssemblyReference.cache
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.Form1.resources
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.Properties.Resources.resources
+F:\源码\C#范例手册\09\LinqOperSQL\LinqOperSQL\obj\Debug\LinqOperSQL.csproj.GenerateResource.Cache
